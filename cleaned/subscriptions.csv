@@ -1,0 +1,2002 @@
+payment_id,user_id,amount,payment_date,plan_type,valid_until,churn_status,renewed,transaction_type,subscription_length,overlapping_subscription,subscription_sequence
+T68237251590,15081,12.99,2025-03-15,Premium,2025-05-14,active,True,payment,60,False,4
+T64935599728,16446,7.99,2025-03-15,Standard,2025-04-14,active,True,payment,30,False,2
+T51224044572,15697,7.99,2025-03-15,Standard,2025-04-14,churned,False,payment,30,False,4
+T76732762694,15654,7.99,2025-03-15,Standard,2025-04-14,churned,False,payment,30,False,3
+T80312974669,15581,7.99,2025-03-15,Standard,2025-04-14,active,True,payment,30,False,4
+T59818280562,16368,7.99,2025-03-15,Standard,2025-04-14,active,True,payment,30,False,3
+T53065971325,15187,12.99,2025-03-15,Premium,2025-05-14,active,True,payment,60,False,3
+T61692649883,16484,12.99,2025-03-15,Premium,2025-05-14,active,True,payment,60,False,2
+T92754749595,15175,12.99,2025-03-15,Premium,2025-05-14,active,True,payment,60,False,3
+T89312411240,15046,7.99,2025-03-15,Standard,2025-04-14,churned,False,payment,30,False,5
+T58257351999,15594,7.99,2025-03-15,Standard,2025-04-14,churned,False,payment,30,False,4
+T84607840749,16347,7.99,2025-03-15,Standard,2025-04-14,churned,False,payment,30,False,3
+T95758964002,16303,-1.0,2025-03-15,Standard,2025-04-14,churned,False,refund/credit,30,False,3
+T72864473869,15050,7.99,2025-03-15,Standard,2025-04-14,active,True,payment,30,False,5
+T87333057327,15669,12.99,2025-03-15,Premium,2025-05-14,active,True,payment,60,False,3
+T66832428211,15668,7.99,2025-03-15,Standard,2025-04-14,active,True,payment,30,False,3
+T82910606847,16421,12.99,2025-03-15,Premium,2025-05-14,active,True,payment,60,False,2
+T76123231901,15062,7.99,2025-03-15,Standard,2025-04-14,active,True,payment,30,False,5
+T78553218875,16320,12.99,2025-03-15,Premium,2025-05-14,active,True,payment,60,False,3
+T96142528729,15727,7.99,2025-03-15,Standard,2025-04-14,active,True,payment,30,False,3
+T82875464052,15190,12.99,2025-03-15,Premium,2025-05-14,active,True,payment,60,False,3
+T71690174889,16405,7.99,2025-03-15,Standard,2025-04-14,active,True,payment,30,False,3
+T53103964862,15125,12.99,2025-03-15,Premium,2025-05-14,active,True,payment,60,False,3
+T69357173642,16456,12.99,2025-03-15,Premium,2025-05-14,active,True,payment,60,False,2
+T89128974252,16523,12.99,2025-03-15,Premium,2025-05-14,active,True,payment,60,False,2
+T74658918289,15131,7.99,2025-03-15,Standard,2025-04-14,active,True,payment,30,False,4
+T80184351447,15649,7.99,2025-03-15,Standard,2025-04-14,churned,False,payment,30,False,4
+T74711129044,16395,12.99,2025-03-15,Premium,2025-05-14,active,True,payment,60,False,3
+T59180522516,15717,7.99,2025-03-15,Standard,2025-04-14,active,True,payment,30,False,4
+T69714269885,16467,4.99,2025-03-15,Student Plan,2025-04-14,active,True,payment,30,False,3
+T83694764544,15630,7.99,2025-03-15,Standard,2025-04-14,active,True,payment,30,False,4
+T68397112337,15024,4.99,2025-03-14,Student Plan,2025-04-13,active,True,payment,30,False,5
+T56141811977,16349,4.99,2025-03-14,Student Plan,2025-04-13,active,True,payment,30,False,3
+T95572293436,16499,12.99,2025-03-14,Premium,2025-05-13,active,True,payment,60,False,2
+T98335918162,15156,12.99,2025-03-14,Premium,2025-05-13,active,True,payment,60,False,3
+T81518193144,15658,4.99,2025-03-14,Student Plan,2025-04-13,active,True,payment,30,False,4
+T70061424222,16346,4.99,2025-03-14,Student Plan,2025-04-13,churned,False,payment,30,False,3
+T50780275383,15656,7.99,2025-03-14,Standard,2025-04-13,active,True,payment,30,False,4
+T71981155677,15027,7.99,2025-03-14,Standard,2025-04-13,active,True,payment,30,False,5
+T92148165216,15162,12.99,2025-03-14,Premium,2025-05-13,active,True,payment,60,False,3
+T73584653774,16462,7.99,2025-03-14,Standard,2025-04-13,active,True,payment,30,False,3
+T50832029136,16491,12.99,2025-03-14,Premium,2025-05-13,churned,False,payment,60,False,2
+T94973001114,15597,12.99,2025-03-14,Premium,2025-05-13,active,True,payment,60,False,4
+T84882356118,16410,12.99,2025-03-14,Premium,2025-05-13,active,True,payment,60,False,2
+T83438633579,16383,7.99,2025-03-14,Standard,2025-04-13,active,True,payment,30,False,3
+T63000992060,16396,12.99,2025-03-14,Premium,2025-05-13,active,True,payment,60,False,2
+T59442203811,15699,7.99,2025-03-14,Standard,2025-04-13,active,True,payment,30,False,3
+T66062575103,15163,12.99,2025-03-14,Premium,2025-05-13,churned,False,payment,60,False,3
+T61005721287,16479,-1.0,2025-03-14,Premium,2025-05-13,active,True,refund/credit,60,False,2
+T98921090580,16427,12.99,2025-03-14,Premium,2025-05-13,active,True,payment,60,False,3
+T78404159134,16482,12.99,2025-03-14,Premium,2025-05-13,active,True,payment,60,False,2
+T91143343897,16444,7.99,2025-03-14,Standard,2025-04-13,active,True,payment,30,False,2
+T73011815686,15682,-5.99,2025-03-14,Student Plan,2025-04-13,churned,False,refund/credit,30,False,3
+T53050779981,15763,12.99,2025-03-14,Premium,2025-05-13,active,True,payment,60,False,3
+T59683569656,15169,12.99,2025-03-14,Premium,2025-05-13,active,True,payment,60,False,3
+T95801278110,15188,12.99,2025-03-13,Premium,2025-05-12,churned,False,payment,60,False,3
+T73897287822,16412,4.99,2025-03-13,Student Plan,2025-04-12,active,True,payment,30,False,3
+T70260329298,16315,12.99,2025-03-13,Premium,2025-05-12,active,True,payment,60,False,3
+T77464138356,15147,12.99,2025-03-13,Premium,2025-05-12,active,True,payment,60,False,3
+T71625108207,16425,7.99,2025-03-13,Standard,2025-04-12,active,True,payment,30,False,2
+T81497360457,16390,7.99,2025-03-13,Standard,2025-04-12,active,True,payment,30,False,3
+T98795061903,15550,7.99,2025-03-13,Standard,2025-04-12,active,True,payment,30,False,4
+T87085808459,16319,7.99,2025-03-13,Standard,2025-04-12,active,True,payment,30,False,3
+T71969292460,16426,12.99,2025-03-13,Premium,2025-05-12,active,True,payment,60,False,2
+T54568063993,15526,7.99,2025-03-13,Standard,2025-04-12,active,True,payment,30,False,4
+T95368586008,15560,-5.99,2025-03-13,Student Plan,2025-04-12,active,True,refund/credit,30,False,4
+T85412906462,15637,4.99,2025-03-13,Student Plan,2025-04-12,active,True,payment,30,False,4
+T71562133226,16392,7.99,2025-03-13,Standard,2025-04-12,active,True,payment,30,False,2
+T89147381594,15647,7.99,2025-03-13,Standard,2025-04-12,active,True,payment,30,False,3
+T92053769019,15696,4.99,2025-03-13,Student Plan,2025-04-12,active,True,payment,30,False,4
+T58585680815,16452,12.99,2025-03-13,Premium,2025-05-12,active,True,payment,60,False,2
+T60983127003,16352,7.99,2025-03-13,Standard,2025-04-12,active,True,payment,30,False,3
+T97050570522,16440,7.99,2025-03-13,Standard,2025-04-12,churned,False,payment,30,False,2
+T83608440023,15665,7.99,2025-03-13,Standard,2025-04-12,active,True,payment,30,False,4
+T52659114525,15659,7.99,2025-03-13,Standard,2025-04-12,active,True,payment,30,False,4
+T74377596346,16454,12.99,2025-03-13,Premium,2025-05-12,active,True,payment,60,False,2
+T64686972118,15095,12.99,2025-03-13,Premium,2025-05-12,active,True,payment,60,False,3
+T92473292714,16455,12.99,2025-03-13,Premium,2025-05-12,active,True,payment,60,False,2
+T56850853945,15102,7.99,2025-03-13,Standard,2025-04-12,churned,False,payment,30,False,4
+T71682403315,16447,12.99,2025-03-13,Premium,2025-05-12,active,True,payment,60,False,2
+T60689770511,16385,7.99,2025-03-13,Standard,2025-04-12,churned,False,payment,30,False,3
+T89109233739,16463,12.99,2025-03-13,Premium,2025-05-12,active,True,payment,60,False,2
+T51218878442,15708,7.99,2025-03-13,Standard,2025-04-12,active,True,payment,30,False,3
+T93892454573,15641,7.99,2025-03-13,Standard,2025-04-12,churned,False,payment,30,False,4
+T87133845350,16469,12.99,2025-03-13,Premium,2025-05-12,churned,False,payment,60,False,2
+T87110726476,15126,12.99,2025-03-13,Premium,2025-05-12,active,True,payment,60,False,3
+T71631130647,15548,4.99,2025-03-12,Student Plan,2025-04-11,active,True,payment,30,False,4
+T68365552825,15007,4.99,2025-03-12,Student Plan,2025-04-11,churned,False,payment,30,False,5
+T79999383314,15575,12.99,2025-03-12,Premium,2025-05-11,active,True,payment,60,False,4
+T64071742686,15074,12.99,2025-03-12,Premium,2025-05-11,active,True,payment,60,False,3
+T93512934843,16411,7.99,2025-03-12,Standard,2025-04-11,active,True,payment,30,False,3
+T54577065471,15570,7.99,2025-03-12,Standard,2025-04-11,active,True,payment,30,False,4
+T53602482829,15078,12.99,2025-03-12,Premium,2025-05-11,active,True,payment,60,False,3
+T95754382847,15058,4.99,2025-03-12,Student Plan,2025-04-11,active,True,payment,30,False,5
+T68661274832,16402,7.99,2025-03-12,Standard,2025-04-11,churned,False,payment,30,False,2
+T79599089170,16407,12.99,2025-03-12,Premium,2025-05-11,active,True,payment,60,False,2
+T94625362821,16399,12.99,2025-03-12,Premium,2025-05-11,active,True,payment,60,False,2
+T72846446230,15631,12.99,2025-03-12,Premium,2025-05-11,churned,False,payment,60,False,4
+T95360863718,16356,7.99,2025-03-12,Standard,2025-04-11,active,True,payment,30,False,3
+T96668412107,15026,7.99,2025-03-12,Standard,2025-04-11,active,True,payment,30,False,5
+T75186572688,15143,7.99,2025-03-12,Standard,2025-04-11,active,True,payment,30,False,3
+T99071633051,16353,12.99,2025-03-12,Premium,2025-05-11,active,True,payment,60,False,2
+T84310819665,15595,4.99,2025-03-12,Student Plan,2025-04-11,active,True,payment,30,False,4
+T66441065397,15031,7.99,2025-03-12,Standard,2025-04-11,active,True,payment,30,False,4
+T50215401420,15662,7.99,2025-03-12,Standard,2025-04-11,churned,False,payment,30,False,3
+T94288621335,15599,12.99,2025-03-12,Premium,2025-05-11,active,True,payment,60,False,3
+T90586860397,15151,12.99,2025-03-12,Premium,2025-05-11,active,True,payment,60,False,3
+T87891048723,15627,12.99,2025-03-12,Premium,2025-05-11,active,True,payment,60,False,3
+T55497457675,16233,7.99,2025-03-12,Standard,2025-04-11,active,True,payment,30,False,3
+T90082053626,15043,12.99,2025-03-12,Premium,2025-05-11,active,True,payment,60,False,3
+T83447479837,15645,12.99,2025-03-12,Premium,2025-05-11,active,True,payment,60,False,4
+T69414280106,16316,4.99,2025-03-12,Student Plan,2025-04-11,active,True,payment,30,False,3
+T83723150125,16243,7.99,2025-03-11,Standard,2025-04-10,active,True,payment,30,False,3
+T74158554153,15132,7.99,2025-03-11,Standard,2025-04-10,active,True,payment,30,False,3
+T53915488825,15170,12.99,2025-03-11,Premium,2025-05-10,active,True,payment,60,False,3
+T72358968207,15072,12.99,2025-03-11,Premium,2025-05-10,active,True,payment,60,False,3
+T92821004664,15051,12.99,2025-03-11,Premium,2025-05-10,churned,False,payment,60,False,3
+T70733790569,15107,12.99,2025-03-11,Premium,2025-05-10,active,True,payment,60,False,3
+T69209587134,15056,12.99,2025-03-11,Premium,2025-05-10,active,True,payment,60,False,3
+T99139622985,16265,7.99,2025-03-11,Standard,2025-04-10,active,True,payment,30,False,3
+T53725102524,16264,7.99,2025-03-11,Standard,2025-04-10,active,True,payment,30,False,3
+T52867709547,16250,4.99,2025-03-11,Student Plan,2025-04-10,churned,False,payment,30,False,3
+T81329950998,16246,7.99,2025-03-11,Standard,2025-04-10,churned,False,payment,30,False,3
+T77518863686,16419,12.99,2025-03-11,Premium,2025-05-10,active,True,payment,60,False,2
+T74044132911,16330,7.99,2025-03-11,Standard,2025-04-10,active,True,payment,30,False,2
+T60410422038,15592,7.99,2025-03-11,Standard,2025-04-10,active,True,payment,30,False,4
+T65704208908,15635,3.141689,2025-03-11,Standard,2025-04-10,active,True,payment,30,False,3
+T84782125659,16331,7.99,2025-03-11,Standard,2025-04-10,churned,False,payment,30,False,2
+T77647607948,16326,12.99,2025-03-11,Premium,2025-05-10,active,True,payment,60,False,3
+T78780773096,15021,-5.99,2025-03-11,Standard,2025-04-10,active,True,refund/credit,30,False,4
+T94973691886,16340,7.99,2025-03-11,Standard,2025-04-10,churned,False,payment,30,False,2
+T76570252500,16314,7.99,2025-03-11,Standard,2025-04-10,active,True,payment,30,False,3
+T54311135059,16420,12.99,2025-03-11,Premium,2025-05-10,active,True,payment,60,False,2
+T98749137203,16342,7.99,2025-03-11,Standard,2025-04-10,active,True,payment,30,False,2
+T61458654786,16308,4.99,2025-03-11,Student Plan,2025-04-10,active,True,payment,30,False,3
+T54770013626,16360,7.99,2025-03-11,Standard,2025-04-10,active,True,payment,30,False,2
+T98875578884,16302,4.99,2025-03-11,Student Plan,2025-04-10,active,True,payment,30,False,3
+T91939043138,16337,12.99,2025-03-11,Premium,2025-05-10,active,True,payment,60,False,2
+T95316611837,16334,7.99,2025-03-11,Standard,2025-04-10,active,True,payment,30,False,3
+T66978864611,15591,4.99,2025-03-11,Student Plan,2025-04-10,churned,False,payment,30,False,4
+T78206972357,15005,4.99,2025-03-11,Student Plan,2025-04-10,active,True,payment,30,False,4
+T96333661941,15037,12.99,2025-03-11,Premium,2025-05-10,churned,False,payment,60,False,3
+T99714000945,15559,7.99,2025-03-11,Standard,2025-04-10,churned,False,payment,30,False,4
+T78127131290,15700,4.99,2025-03-10,Student Plan,2025-04-09,active,True,payment,30,False,3
+T73813122108,15069,12.99,2025-03-10,Premium,2025-05-09,active,True,payment,60,False,3
+T95851217724,16215,7.99,2025-03-10,Standard,2025-04-09,active,True,payment,30,False,3
+T55323345192,16338,12.99,2025-03-10,Premium,2025-05-09,active,True,payment,60,False,2
+T74994139379,16185,7.99,2025-03-10,Standard,2025-04-09,active,True,payment,30,False,3
+T85370655600,16375,12.99,2025-03-10,Premium,2025-05-09,active,True,payment,60,False,2
+T57443118480,16376,7.99,2025-03-10,Standard,2025-04-09,active,True,payment,30,False,3
+T97184496697,15092,7.99,2025-03-10,Standard,2025-04-09,churned,False,payment,30,False,5
+T89710610114,15653,7.99,2025-03-10,Standard,2025-04-09,active,True,payment,30,False,3
+T68525297550,16371,7.99,2025-03-10,Standard,2025-04-09,active,True,payment,30,False,2
+T69595131556,15090,12.99,2025-03-10,Premium,2025-05-09,active,True,payment,60,False,3
+T53626492857,15097,12.99,2025-03-10,Premium,2025-05-09,active,True,payment,60,False,3
+T87013493654,16366,4.99,2025-03-10,Student Plan,2025-04-09,active,True,payment,30,False,3
+T93068537651,16277,7.99,2025-03-10,Standard,2025-04-09,active,True,payment,30,False,3
+T83663003005,15036,7.99,2025-03-10,Standard,2025-04-09,churned,False,payment,30,False,4
+T57716071175,15489,-5.99,2025-03-10,Premium,2025-05-09,active,True,refund/credit,60,False,4
+T85822842625,16266,12.99,2025-03-10,Premium,2025-05-09,active,True,payment,60,False,3
+T55572190019,15565,7.99,2025-03-10,Standard,2025-04-09,active,True,payment,30,False,4
+T70385084632,15567,7.99,2025-03-10,Standard,2025-04-09,churned,False,payment,30,False,4
+T59872387342,15578,12.99,2025-03-10,Premium,2025-05-09,active,True,payment,60,False,3
+T59286963208,16258,7.99,2025-03-10,Standard,2025-04-09,churned,False,payment,30,False,3
+T73949429367,16304,7.99,2025-03-10,Standard,2025-04-09,active,True,payment,30,False,2
+T64893447735,16311,12.99,2025-03-10,Premium,2025-05-09,active,True,payment,60,False,2
+T94881395584,16312,4.99,2025-03-10,Student Plan,2025-04-09,churned,False,payment,30,False,3
+T88793712869,15536,7.99,2025-03-10,Standard,2025-04-09,active,True,payment,30,False,4
+T59931104853,15612,12.99,2025-03-10,Premium,2025-05-09,active,True,payment,60,False,3
+T96360691187,16275,4.99,2025-03-10,Student Plan,2025-04-09,active,True,payment,30,False,3
+T74235179894,15522,4.99,2025-03-10,Student Plan,2025-04-09,churned,False,payment,30,False,4
+T75081974610,16389,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,2
+T63238762241,15538,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,4
+T85461404642,15064,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,5
+T68899754459,15535,7.99,2025-03-09,Standard,2025-04-08,active,True,payment,30,False,4
+T88765553557,16179,7.99,2025-03-09,Standard,2025-04-08,churned,False,payment,30,False,3
+T55962082768,15615,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,3
+T60455272464,15103,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,3
+T98061019775,15110,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,3
+T58353528657,15474,7.99,2025-03-09,Standard,2025-04-08,active,True,payment,30,False,4
+T54725155215,16210,7.99,2025-03-09,Standard,2025-04-08,churned,False,payment,30,False,3
+T77577922454,16387,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,2
+T52559073171,16291,7.99,2025-03-09,Standard,2025-04-08,active,True,payment,30,False,2
+T87750676329,16351,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,2
+T69018676682,16257,7.99,2025-03-09,Standard,2025-04-08,active,True,payment,30,False,3
+T52535760795,16299,7.99,2025-03-09,Standard,2025-04-08,active,True,payment,30,False,3
+T77393455051,16254,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,3
+T95808668996,16339,7.99,2025-03-09,Standard,2025-04-08,active,True,payment,30,False,3
+T97378001722,16296,7.99,2025-03-09,Standard,2025-04-08,churned,False,payment,30,False,3
+T79372872917,16317,4.99,2025-03-09,Student Plan,2025-04-08,active,True,payment,30,False,3
+T62393619032,16294,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,2
+T68763503568,15028,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,3
+T89697678535,16354,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,2
+T71457873007,16373,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,2
+T86179345289,16284,12.99,2025-03-09,Premium,2025-05-08,churned,False,payment,60,False,2
+T78998052496,16259,7.99,2025-03-09,Standard,2025-04-08,churned,False,payment,30,False,3
+T86198180648,16381,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,2
+T85844511371,16260,7.99,2025-03-09,Standard,2025-04-08,active,True,payment,30,False,3
+T58282478691,16273,4.99,2025-03-09,Student Plan,2025-04-08,active,True,payment,30,False,3
+T91489501141,16341,12.99,2025-03-09,Premium,2025-05-08,active,True,payment,60,False,2
+T56296958896,15000,7.99,2025-03-08,Standard,2025-04-07,active,True,payment,30,False,3
+T92465906919,15075,12.99,2025-03-08,Premium,2025-05-07,active,True,payment,60,False,3
+T97221161916,15023,12.99,2025-03-08,Premium,2025-05-07,active,True,payment,60,False,3
+T59481202987,15077,12.99,2025-03-08,Premium,2025-05-07,active,True,payment,60,False,3
+T80055164163,15498,7.99,2025-03-08,Standard,2025-04-07,churned,False,payment,30,False,4
+T54780856921,15462,4.99,2025-03-08,Student Plan,2025-04-07,active,True,payment,30,False,4
+T95841840375,15586,7.99,2025-03-08,Standard,2025-04-07,churned,False,payment,30,False,3
+T98026892064,15030,12.99,2025-03-08,Premium,2025-05-07,active,True,payment,60,False,3
+T97056172549,15514,7.99,2025-03-08,Standard,2025-04-07,active,True,payment,30,False,4
+T54879492195,15603,12.99,2025-03-08,Premium,2025-05-07,active,True,payment,60,False,3
+T84018841108,15080,12.99,2025-03-08,Premium,2025-05-07,active,True,payment,60,False,3
+T75899708567,15048,12.99,2025-03-08,Premium,2025-05-07,active,True,payment,60,False,3
+T62788726843,15513,7.99,2025-03-08,Standard,2025-04-07,active,True,payment,30,False,4
+T86352519380,15527,12.99,2025-03-08,Premium,2025-05-07,active,True,payment,60,False,3
+T74847752912,15112,-5.99,2025-03-08,Premium,2025-05-07,active,True,refund/credit,60,False,3
+T64915337793,16249,7.99,2025-03-08,Standard,2025-04-07,active,True,payment,30,False,3
+T67218834709,15519,7.99,2025-03-08,Standard,2025-04-07,active,True,payment,30,False,4
+T95117005650,16161,7.99,2025-03-08,Standard,2025-04-07,active,True,payment,30,False,3
+T74761932759,16230,4.99,2025-03-08,Student Plan,2025-04-07,active,True,payment,30,False,3
+T74390334266,15016,12.99,2025-03-08,Premium,2025-05-07,active,True,payment,60,False,3
+T79568562808,16241,7.99,2025-03-08,Standard,2025-04-07,active,True,payment,30,False,3
+T55758822203,16283,7.99,2025-03-08,Standard,2025-04-07,churned,False,payment,30,False,3
+T94635092633,16286,12.99,2025-03-08,Premium,2025-05-07,active,True,payment,60,False,2
+T73227760828,16344,12.99,2025-03-08,Premium,2025-05-07,active,True,payment,60,False,2
+T59845154195,16242,7.99,2025-03-08,Standard,2025-04-07,churned,False,payment,30,False,3
+T87514131210,15517,12.99,2025-03-08,Premium,2025-05-07,active,True,payment,60,False,3
+T95674111986,16240,12.99,2025-03-07,Premium,2025-05-06,active,True,payment,60,False,2
+T77782474136,15605,4.99,2025-03-07,Student Plan,2025-04-06,active,True,payment,30,False,4
+T88903110520,16348,12.99,2025-03-07,Premium,2025-05-06,active,True,payment,60,False,2
+T60452605066,15020,12.99,2025-03-07,Premium,2025-05-06,active,True,payment,60,False,3
+T83908839848,16113,12.99,2025-03-07,Premium,2025-05-06,active,True,payment,60,False,3
+T51199849713,15558,7.99,2025-03-07,Standard,2025-04-06,active,True,payment,30,False,4
+T69278902949,16274,7.99,2025-03-07,Standard,2025-04-06,active,True,payment,30,False,3
+T79436914640,15473,12.99,2025-03-07,Premium,2025-05-06,active,True,payment,60,False,3
+T70131230131,16281,7.99,2025-03-07,Standard,2025-04-06,active,True,payment,30,False,2
+T95700231458,15470,12.99,2025-03-07,Premium,2025-05-06,active,True,payment,60,False,4
+T75900642515,15521,7.99,2025-03-07,Standard,2025-04-06,churned,False,payment,30,False,3
+T58337474397,15554,7.99,2025-03-07,Standard,2025-04-06,active,True,payment,30,False,4
+T93424724063,16287,12.99,2025-03-07,Premium,2025-05-06,active,True,payment,60,False,2
+T98839482363,16313,12.99,2025-03-07,Premium,2025-05-06,active,True,payment,60,False,2
+T94110920561,16295,12.99,2025-03-07,Premium,2025-05-06,active,True,payment,60,False,2
+T78189503127,16184,7.99,2025-03-07,Standard,2025-04-06,active,True,payment,30,False,3
+T73106646322,16350,12.99,2025-03-07,Premium,2025-05-06,active,True,payment,60,False,2
+T95328302859,16336,7.99,2025-03-07,Standard,2025-04-06,churned,False,payment,30,False,2
+T86700956787,16234,12.99,2025-03-07,Premium,2025-05-06,active,True,payment,60,False,2
+T56285307833,15450,4.99,2025-03-07,Student Plan,2025-04-06,active,True,payment,30,False,4
+T85297775919,15505,7.99,2025-03-06,Standard,2025-04-05,active,True,payment,30,False,4
+T81743320793,16225,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,2
+T62784164911,15508,7.99,2025-03-06,Standard,2025-04-05,active,True,payment,30,False,4
+T53064742258,16325,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,2
+T83603776639,15511,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,4
+T64811792206,16974,4.99,2025-03-06,Student Plan,2025-04-05,churned,False,payment,30,False,2
+T90856943133,16309,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,2
+T61686583456,16297,12.99,2025-03-06,Premium,2025-05-05,churned,False,payment,60,False,2
+T72535263358,15477,4.99,2025-03-06,Student Plan,2025-04-05,active,True,payment,30,False,4
+T99628568630,15552,7.99,2025-03-06,Standard,2025-04-05,active,True,payment,30,False,4
+T57376761092,16282,7.99,2025-03-06,Standard,2025-04-05,churned,False,payment,30,False,2
+T80998665378,16972,4.99,2025-03-06,Student Plan,2025-04-05,active,True,payment,30,False,2
+T87019461364,16237,4.99,2025-03-06,Student Plan,2025-04-05,active,True,payment,30,False,3
+T89558031139,16993,7.99,2025-03-06,Standard,2025-04-05,active,True,payment,30,False,2
+T66232859527,15015,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,3
+T73731707184,16244,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,2
+T53065522864,15481,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,4
+T50148784679,15003,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,3
+T71499410553,16199,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,2
+T86080258855,16200,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,3
+T56628757319,16223,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,2
+T75068419004,16201,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,2
+T51277873523,15407,7.99,2025-03-06,Standard,2025-04-05,active,True,payment,30,False,4
+T89924419025,15008,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,3
+T61468250958,15492,7.99,2025-03-06,Standard,2025-04-05,active,True,payment,30,False,4
+T64184542692,16206,12.99,2025-03-06,Premium,2025-05-05,active,True,payment,60,False,2
+T73008754377,16204,7.99,2025-03-06,Standard,2025-04-05,active,True,payment,30,False,3
+T59551114899,16983,4.99,2025-03-06,Student Plan,2025-04-05,churned,False,payment,30,False,2
+T98061873662,16998,4.99,2025-03-06,Student Plan,2025-04-05,active,True,payment,30,False,2
+T76505811036,16128,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,3
+T87203914333,16216,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,3
+T55921023294,16127,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,3
+T90264248775,15504,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,4
+T86373634647,16235,7.99,2025-03-05,Standard,2025-04-04,churned,False,payment,30,False,2
+T78845187351,16971,4.99,2025-03-05,Student Plan,2025-04-04,active,True,payment,30,False,2
+T51086483812,16180,12.99,2025-03-05,Premium,2025-05-04,active,True,payment,60,False,2
+T68520386919,15479,12.99,2025-03-05,Premium,2025-05-04,active,True,payment,60,False,4
+T85299863120,16944,4.99,2025-03-05,Student Plan,2025-04-04,active,True,payment,30,False,2
+T87965520521,16236,4.99,2025-03-05,Student Plan,2025-04-04,active,True,payment,30,False,3
+T63619682517,16973,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,2
+T99572281739,16271,12.99,2025-03-05,Premium,2025-05-04,active,True,payment,60,False,2
+T93143742978,15368,4.99,2025-03-05,Student Plan,2025-04-04,active,True,payment,30,False,4
+T84684455565,16292,12.99,2025-03-05,Premium,2025-05-04,active,True,payment,60,False,2
+T99515080989,16143,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,3
+T91150174017,16967,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,2
+T87111205033,16288,12.99,2025-03-05,Premium,2025-05-04,churned,False,payment,60,False,2
+T93044134790,16949,4.99,2025-03-05,Student Plan,2025-04-04,active,True,payment,30,False,2
+T86538105233,16961,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,2
+T88061779497,15486,7.99,2025-03-05,Standard,2025-04-04,churned,False,payment,30,False,4
+T93486345642,16145,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,3
+T85512520565,16278,12.99,2025-03-05,Premium,2025-05-04,active,True,payment,60,False,2
+T96648862524,16152,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,3
+T79733638122,16963,4.99,2025-03-05,Student Plan,2025-04-04,active,True,payment,30,False,2
+T61969066417,16227,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,2
+T71273370631,16156,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,3
+T81057221090,16269,12.99,2025-03-05,Premium,2025-05-04,active,True,payment,60,False,3
+T76053901581,15426,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,4
+T88005607701,16238,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,2
+T81171961835,16205,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,3
+T54169669090,16118,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,3
+T61027315102,16953,12.99,2025-03-05,Premium,2025-05-04,churned,False,payment,60,False,2
+T86923062595,16263,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,3
+T87846688728,16163,7.99,2025-03-05,Standard,2025-04-04,churned,False,payment,30,False,3
+T70478661334,16167,12.99,2025-03-05,Premium,2025-05-04,active,True,payment,60,False,3
+T78416665027,16942,7.99,2025-03-05,Standard,2025-04-04,active,True,payment,30,False,2
+T50670022208,16279,7.99,2025-03-05,Standard,2025-04-04,churned,False,payment,30,False,2
+T70797879350,15546,7.99,2025-03-04,Standard,2025-04-03,churned,False,payment,30,False,3
+T91277241090,15475,12.99,2025-03-04,Premium,2025-05-03,active,True,payment,60,False,3
+T85343555196,15438,12.99,2025-03-04,Premium,2025-05-03,active,True,payment,60,False,4
+T53607966914,15431,7.99,2025-03-04,Standard,2025-04-03,active,True,payment,30,False,4
+T61837475327,15002,7.99,2025-03-04,Standard,2025-04-03,active,True,payment,30,False,3
+T93940511599,15549,7.99,2025-03-04,Standard,2025-04-03,active,True,payment,30,False,3
+T60940694266,16197,4.99,2025-03-04,Student Plan,2025-04-03,active,True,payment,30,False,3
+T85067123458,16142,4.99,2025-03-04,Student Plan,2025-04-03,active,True,payment,30,False,3
+T56517880736,15497,12.99,2025-03-04,Premium,2025-05-03,active,True,payment,60,False,3
+T96502866015,16056,4.99,2025-03-04,Student Plan,2025-04-03,active,True,payment,30,False,3
+T75591391159,16144,7.99,2025-03-04,Standard,2025-04-03,churned,False,payment,30,False,3
+T84333125905,16146,4.99,2025-03-04,Student Plan,2025-04-03,active,True,payment,30,False,3
+T88972335591,16918,7.99,2025-03-04,Standard,2025-04-03,active,True,payment,30,False,2
+T71221970174,15323,4.99,2025-03-04,Student Plan,2025-04-03,active,True,payment,30,False,4
+T90144432402,16920,12.99,2025-03-04,Premium,2025-05-03,active,True,payment,60,False,2
+T50937450168,16921,7.99,2025-03-04,Standard,2025-04-03,active,True,payment,30,False,2
+T85374816737,15012,12.99,2025-03-04,Premium,2025-05-03,active,True,payment,60,False,3
+T94194589485,16188,12.99,2025-03-04,Premium,2025-05-03,active,True,payment,60,False,2
+T71589563769,16168,7.99,2025-03-04,Standard,2025-04-03,active,True,payment,30,False,3
+T68050850828,16990,4.99,2025-03-04,Student Plan,2025-04-03,active,True,payment,30,False,2
+T87011117188,16137,4.99,2025-03-04,Student Plan,2025-04-03,churned,False,payment,30,False,3
+T67729599197,16941,4.99,2025-03-04,Student Plan,2025-04-03,churned,False,payment,30,False,2
+T93979481698,16139,4.99,2025-03-04,Student Plan,2025-04-03,active,True,payment,30,False,3
+T69255186203,16178,7.99,2025-03-04,Standard,2025-04-03,active,True,payment,30,False,3
+T98685607161,16945,4.99,2025-03-04,Student Plan,2025-04-03,active,True,payment,30,False,2
+T71525813576,16930,7.99,2025-03-04,Standard,2025-04-03,active,True,payment,30,False,2
+T71711384849,16183,12.99,2025-03-04,Premium,2025-05-03,active,True,payment,60,False,2
+T82336388646,16217,12.99,2025-03-04,Premium,2025-05-03,active,True,payment,60,False,3
+T63614940247,15467,7.99,2025-03-04,Standard,2025-04-03,active,True,payment,30,False,3
+T56566592819,15500,7.99,2025-03-04,Standard,2025-04-03,active,True,payment,30,False,4
+T87609532684,15520,-1.0,2025-03-03,Premium,2025-05-02,active,True,refund/credit,60,False,3
+T76946217643,15391,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,4
+T61717717547,15408,12.99,2025-03-03,Premium,2025-05-02,active,True,payment,60,False,3
+T89730685820,16956,7.99,2025-03-03,Standard,2025-04-02,churned,False,payment,30,False,2
+T82576450973,16975,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,2
+T91219722625,15540,12.99,2025-03-03,Premium,2025-05-02,active,True,payment,60,False,3
+T79749225344,16135,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,3
+T75587542487,15444,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,4
+T96237179072,16991,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,2
+T50024692362,16170,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,2
+T96110866646,16173,12.99,2025-03-03,Premium,2025-05-02,active,True,payment,60,False,2
+T66365353514,16927,12.99,2025-03-03,Premium,2025-05-02,active,True,payment,60,False,2
+T69262721678,16174,12.99,2025-03-03,Premium,2025-05-02,active,True,payment,60,False,2
+T51897028383,15441,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,3
+T51237125770,16176,12.99,2025-03-03,Premium,2025-05-02,active,True,payment,60,False,2
+T84625379442,16218,12.99,2025-03-03,Premium,2025-05-02,active,True,payment,60,False,2
+T68372903413,16181,12.99,2025-03-03,Premium,2025-05-02,active,True,payment,60,False,2
+T81523799709,15440,12.99,2025-03-03,Premium,2025-05-02,active,True,payment,60,False,4
+T79779021368,16186,4.99,2025-03-03,Student Plan,2025-04-02,active,True,payment,30,False,3
+T86343666289,16995,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,2
+T56066918969,16214,2.8998217,2025-03-03,Premium,2025-05-02,active,True,payment,60,False,2
+T78897164422,15437,7.99,2025-03-03,Standard,2025-04-02,churned,False,payment,30,False,4
+T88423726883,16981,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,2
+T64782469250,16136,4.99,2025-03-03,Student Plan,2025-04-02,active,True,payment,30,False,3
+T51802199197,15348,4.99,2025-03-03,Student Plan,2025-04-02,active,True,payment,30,False,4
+T65407249876,15376,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,4
+T86128165426,16125,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,3
+T89071179949,16121,4.99,2025-03-03,Student Plan,2025-04-02,active,True,payment,30,False,3
+T80585269423,16976,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,2
+T80555888094,16908,12.99,2025-03-03,Premium,2025-05-02,active,True,payment,60,False,2
+T59559755164,15478,12.99,2025-03-03,Premium,2025-05-02,active,True,payment,60,False,3
+T96421202613,16978,4.99,2025-03-03,Student Plan,2025-04-02,active,True,payment,30,False,2
+T79076439124,16906,4.99,2025-03-03,Student Plan,2025-04-02,churned,False,payment,30,False,2
+T84962132512,16099,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,3
+T53966561721,15360,7.99,2025-03-03,Standard,2025-04-02,active,True,payment,30,False,4
+T76331690472,16894,4.99,2025-03-03,Student Plan,2025-04-02,active,True,payment,30,False,2
+T58247578596,16966,4.99,2025-03-02,Student Plan,2025-04-01,active,True,payment,30,False,2
+T77666443133,16868,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T85396528903,16959,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T85149146703,16996,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T52783796676,16979,4.99,2025-03-02,Student Plan,2025-04-01,active,True,payment,30,False,2
+T99610854988,16969,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T67277704962,15397,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,4
+T61532787629,15423,3.141689,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,4
+T87090945755,16992,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T77218471187,16964,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T53814531499,16870,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T64647978191,15458,7.99,2025-03-02,Standard,2025-04-01,churned,False,payment,30,False,3
+T94563273893,16043,12.99,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,3
+T58801434200,16171,12.99,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,2
+T66705657937,16885,-5.99,2025-03-02,Standard,2025-04-01,active,True,refund/credit,30,False,2
+T52593789829,16160,12.99,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,2
+T76160684751,16061,7.99,2025-03-02,Standard,2025-04-01,churned,False,payment,30,False,3
+T97362464162,16158,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T61825318846,16153,12.99,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,2
+T65556329014,16919,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T68872944174,16133,12.99,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,2
+T69360847964,16129,4.99,2025-03-02,Student Plan,2025-04-01,active,True,payment,30,False,3
+T72353869528,15466,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,3
+T97465917670,16076,12.99,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,3
+T61460557874,16115,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T84762999027,16108,12.99,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,2
+T58695064059,16898,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T96089691167,16090,7.99,2025-03-02,Standard,2025-04-01,churned,False,payment,30,False,3
+T76393562504,16876,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T76891602761,16951,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T85739536689,16096,4.99,2025-03-02,Student Plan,2025-04-01,active,True,payment,30,False,3
+T78570544591,16224,4.99,2025-03-02,Student Plan,2025-04-01,active,True,payment,30,False,2
+T94682144350,16095,7.99,2025-03-02,Standard,2025-04-01,churned,False,payment,30,False,3
+T56190591147,16212,12.99,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,2
+T55464113175,16209,12.99,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,2
+T86894384090,16202,12.99,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,2
+T97607907272,16881,7.99,2025-03-02,Standard,2025-04-01,active,True,payment,30,False,2
+T55963678219,16934,12.99,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,2
+T85829391450,16191,12.99,2025-03-02,Premium,2025-05-01,active,True,payment,60,False,2
+T53432841693,16932,7.99,2025-03-02,Standard,2025-04-01,churned,False,payment,30,False,2
+T53694895920,16884,4.99,2025-03-01,Student Plan,2025-03-31,churned,False,payment,30,False,2
+T96374959786,15349,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,4
+T57445851315,15449,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,3
+T65437348877,16877,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,2
+T67183194305,16120,12.99,2025-03-01,Premium,2025-04-30,active,True,payment,60,False,2
+T84384070795,16119,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,3
+T63305925527,15347,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,3
+T99780625661,16030,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,3
+T50272597924,16195,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,2
+T66596467500,15373,4.99,2025-03-01,Student Plan,2025-03-31,churned,False,payment,30,False,4
+T89481091851,16021,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,3
+T78955809003,16935,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,2
+T56239942123,15354,7.99,2025-03-01,Standard,2025-03-31,churned,False,payment,30,False,4
+T95021607449,16101,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,3
+T53239327743,16903,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,2
+T74773772290,16045,12.99,2025-03-01,Premium,2025-04-30,active,True,payment,60,False,3
+T52145881836,16902,4.99,2025-03-01,Student Plan,2025-03-31,active,True,payment,30,False,2
+T81790421731,15393,12.99,2025-03-01,Premium,2025-04-30,churned,False,payment,60,False,3
+T94724293268,15342,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,4
+T66355865169,16140,12.99,2025-03-01,Premium,2025-04-30,active,True,payment,60,False,2
+T91592201844,16155,12.99,2025-03-01,Premium,2025-04-30,active,True,payment,60,False,2
+T87571950120,16929,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,2
+T82010839187,16888,7.99,2025-03-01,Standard,2025-03-31,active,True,payment,30,False,2
+T51028438035,16002,12.99,2025-03-01,Premium,2025-04-30,active,True,payment,60,False,3
+T94655376093,15464,7.99,2025-03-01,Standard,2025-03-31,churned,False,payment,30,False,3
+T74219533918,16092,7.99,2025-03-01,Standard,2025-03-31,churned,False,payment,30,False,3
+T62202077822,15387,7.99,2025-03-01,Standard,2025-03-31,churned,False,payment,30,False,4
+T74686488498,16924,7.99,2025-03-01,Standard,2025-03-31,churned,False,payment,30,False,2
+T66415435215,16132,12.99,2025-03-01,Premium,2025-04-30,active,True,payment,60,False,3
+T77817476397,16068,12.99,2025-03-01,Premium,2025-04-30,active,True,payment,60,False,3
+T57394963564,16157,12.99,2025-03-01,Premium,2025-04-30,churned,False,payment,60,False,2
+T63884275342,16879,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,2
+T62892699933,16041,12.99,2025-02-28,Premium,2025-04-29,active,True,payment,60,False,3
+T82255997816,16827,7.99,2025-02-28,Standard,2025-03-30,churned,False,payment,30,False,2
+T86330710939,16830,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,2
+T52142209057,16055,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,3
+T75541667016,16071,12.99,2025-02-28,Premium,2025-04-29,active,True,payment,60,False,2
+T80546119002,16839,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,2
+T91455048401,16087,12.99,2025-02-28,Premium,2025-04-29,active,True,payment,60,False,2
+T89864389056,16079,12.99,2025-02-28,Premium,2025-04-29,active,True,payment,60,False,2
+T85634649844,16070,12.99,2025-02-28,Premium,2025-04-29,active,True,payment,60,False,2
+T65076921890,16878,12.99,2025-02-28,Premium,2025-04-29,active,True,payment,60,False,2
+T83082442993,16838,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,2
+T87220128941,16049,12.99,2025-02-28,Premium,2025-04-29,churned,False,payment,60,False,3
+T74695355154,16891,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,2
+T64351187370,16833,4.99,2025-02-28,Student Plan,2025-03-30,active,True,payment,30,False,2
+T61531729932,15414,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,4
+T61749632741,15395,7.99,2025-02-28,Standard,2025-03-30,churned,False,payment,30,False,3
+T92218773698,16069,4.99,2025-02-28,Student Plan,2025-03-30,active,True,payment,30,False,3
+T83717267535,16098,12.99,2025-02-28,Premium,2025-04-29,churned,False,payment,60,False,2
+T85806273728,16130,12.99,2025-02-28,Premium,2025-04-29,active,True,payment,60,False,2
+T82222951237,16940,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,2
+T63866534258,16936,4.99,2025-02-28,Student Plan,2025-03-30,active,True,payment,30,False,2
+T87364109280,16008,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,3
+T73325347998,16003,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,3
+T88401601010,16175,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,2
+T96173396716,15303,12.99,2025-02-28,Premium,2025-04-29,active,True,payment,60,False,4
+T62365101372,16864,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,2
+T88832709381,16172,12.99,2025-02-28,Premium,2025-04-29,active,True,payment,60,False,2
+T65375146304,16863,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,2
+T85243131485,16925,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,2
+T57755063624,15263,7.99,2025-02-28,Standard,2025-03-30,churned,False,payment,30,False,4
+T61799051211,16861,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,2
+T75894039295,16150,12.99,2025-02-28,Premium,2025-04-29,active,True,payment,60,False,2
+T59685946061,16854,12.99,2025-02-28,Premium,2025-04-29,active,True,payment,60,False,2
+T84369998454,16109,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,3
+T81576331102,15409,12.99,2025-02-28,Premium,2025-04-29,active,True,payment,60,False,4
+T86674534417,16122,12.99,2025-02-28,Premium,2025-04-29,churned,False,payment,60,False,2
+T59696088054,16905,7.99,2025-02-28,Standard,2025-03-30,active,True,payment,30,False,2
+T89048235367,16821,4.99,2025-02-28,Student Plan,2025-03-30,churned,False,payment,30,False,2
+T63011343065,16813,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,2
+T55576895463,16811,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,2
+T54750918613,16116,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,3
+T97489398836,15304,7.99,2025-02-27,Standard,2025-03-29,churned,False,payment,30,False,4
+T65724025665,16110,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,3
+T83388728403,15372,12.99,2025-02-27,Premium,2025-04-28,active,True,payment,60,False,4
+T73019246932,16074,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,2
+T56606671546,16052,12.99,2025-02-27,Premium,2025-04-28,active,True,payment,60,False,2
+T79689830960,16793,12.99,2025-02-27,Premium,2025-04-28,churned,False,payment,60,False,2
+T90194799863,16103,12.99,2025-02-27,Premium,2025-04-28,active,True,payment,60,False,2
+T99050141454,16088,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,3
+T90546582617,16880,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,2
+T59297231897,16081,7.99,2025-02-27,Standard,2025-03-29,churned,False,payment,30,False,3
+T94972859528,16077,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,2
+T52022941315,16797,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,2
+T76172154416,16117,12.99,2025-02-27,Premium,2025-04-28,active,True,payment,60,False,2
+T92454114978,16907,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,2
+T54121760143,16148,7.99,2025-02-27,Standard,2025-03-29,churned,False,payment,30,False,2
+T72712207601,16914,4.99,2025-02-27,Student Plan,2025-03-29,churned,False,payment,30,False,2
+T87086414276,16066,12.99,2025-02-27,Premium,2025-04-28,active,True,payment,60,False,2
+T87197299173,15336,7.99,2025-02-27,Standard,2025-03-29,churned,False,payment,30,False,4
+T84403886787,16802,4.99,2025-02-27,Student Plan,2025-03-29,active,True,payment,30,False,2
+T88316851031,15356,4.99,2025-02-27,Student Plan,2025-03-29,active,True,payment,30,False,4
+T91554141495,16795,12.99,2025-02-27,Premium,2025-04-28,active,True,payment,60,False,2
+T71673730314,15339,4.99,2025-02-27,Student Plan,2025-03-29,active,True,payment,30,False,4
+T94423272409,16910,4.99,2025-02-27,Student Plan,2025-03-29,active,True,payment,30,False,2
+T69369827192,15378,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,3
+T77553074338,16798,12.99,2025-02-27,Premium,2025-04-28,active,True,payment,60,False,2
+T55169762675,16912,4.99,2025-02-27,Student Plan,2025-03-29,active,True,payment,30,False,2
+T70543548665,16022,4.99,2025-02-27,Student Plan,2025-03-29,churned,False,payment,30,False,3
+T57416638214,15960,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,3
+T71932106572,16823,4.99,2025-02-27,Student Plan,2025-03-29,churned,False,payment,30,False,2
+T72141579738,16862,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,2
+T65121936212,16859,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,2
+T94836524968,15986,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,3
+T63125759316,16832,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,2
+T99698337726,16865,4.99,2025-02-27,Student Plan,2025-03-29,churned,False,payment,30,False,2
+T83162649474,16009,4.99,2025-02-27,Student Plan,2025-03-29,churned,False,payment,30,False,3
+T57308548104,16849,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,2
+T73725755855,15992,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,3
+T95296216880,16029,7.99,2025-02-27,Standard,2025-03-29,active,True,payment,30,False,3
+T55575650621,16872,12.99,2025-02-27,Premium,2025-04-28,active,True,payment,60,False,2
+T71835642386,16871,4.99,2025-02-27,Student Plan,2025-03-29,active,True,payment,30,False,2
+T59740189876,16779,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,2
+T70943829785,16015,4.99,2025-02-26,Student Plan,2025-03-28,active,True,payment,30,False,3
+T59643004663,16860,4.99,2025-02-26,Student Plan,2025-03-28,churned,False,payment,30,False,2
+T77877763807,15944,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,3
+T94869971435,15989,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,3
+T58888857436,16785,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,2
+T93649429400,16063,12.99,2025-02-26,Premium,2025-04-27,active,True,payment,60,False,2
+T70170068760,15330,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,4
+T59757710426,15332,12.99,2025-02-26,Premium,2025-04-27,active,True,payment,60,False,3
+T78302428836,15382,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,3
+T76160636532,16853,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,2
+T64846220207,16800,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,2
+T52801169230,15416,4.99,2025-02-26,Student Plan,2025-03-28,active,True,payment,30,False,3
+T72899647579,16852,-1.0,2025-02-26,Student Plan,2025-03-28,active,True,refund/credit,30,False,2
+T97839063713,16027,12.99,2025-02-26,Premium,2025-04-27,active,True,payment,60,False,2
+T62501465093,15346,4.99,2025-02-26,Student Plan,2025-03-28,active,True,payment,30,False,4
+T51771552962,16080,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,3
+T80200929894,16024,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,3
+T62173340945,15952,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,3
+T88900520094,16073,3.141689,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,2
+T86739612908,16774,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,2
+T75432758799,16834,-5.99,2025-02-26,Standard,2025-03-28,active,True,refund/credit,30,False,2
+T62458649539,16775,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,2
+T69314482277,16794,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,2
+T91353519745,16034,4.99,2025-02-26,Student Plan,2025-03-28,active,True,payment,30,False,3
+T76910385667,16875,4.99,2025-02-26,Student Plan,2025-03-28,active,True,payment,30,False,2
+T75041959446,16083,12.99,2025-02-26,Premium,2025-04-27,active,True,payment,60,False,2
+T62246141645,16060,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,3
+T78832030267,16057,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,3
+T81439231515,16822,7.99,2025-02-26,Standard,2025-03-28,churned,False,payment,30,False,2
+T54771638672,16019,2.8998217,2025-02-26,Premium,2025-04-27,active,True,payment,60,False,2
+T90046925257,16738,4.99,2025-02-26,Student Plan,2025-03-28,active,True,payment,30,False,2
+T82384354877,16869,4.99,2025-02-26,Student Plan,2025-03-28,active,True,payment,30,False,2
+T94088020016,16018,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,2
+T86620403113,16053,4.99,2025-02-26,Student Plan,2025-03-28,active,True,payment,30,False,3
+T68521421545,15294,7.99,2025-02-26,Standard,2025-03-28,active,True,payment,30,False,4
+T51165861236,15961,7.99,2025-02-25,Standard,2025-03-27,active,True,payment,30,False,3
+T83784823578,16851,4.99,2025-02-25,Student Plan,2025-03-27,churned,False,payment,30,False,2
+T73963600467,15351,7.99,2025-02-25,Standard,2025-03-27,active,True,payment,30,False,4
+T65697611970,16772,7.99,2025-02-25,Standard,2025-03-27,active,True,payment,30,False,2
+T51912422029,16046,7.99,2025-02-25,Standard,2025-03-27,churned,False,payment,30,False,2
+T63478174747,16848,7.99,2025-02-25,Standard,2025-03-27,active,True,payment,30,False,2
+T86348233072,16777,4.99,2025-02-25,Student Plan,2025-03-27,active,True,payment,30,False,2
+T97602357164,16106,12.99,2025-02-25,Premium,2025-04-26,active,True,payment,60,False,2
+T65386186001,15375,7.99,2025-02-25,Standard,2025-03-27,active,True,payment,30,False,4
+T84088224112,16818,4.99,2025-02-25,Student Plan,2025-03-27,active,True,payment,30,False,2
+T74059900962,16044,12.99,2025-02-25,Premium,2025-04-26,active,True,payment,60,False,2
+T60123832662,15946,7.99,2025-02-25,Standard,2025-03-27,active,True,payment,30,False,3
+T90564410542,16741,4.99,2025-02-25,Student Plan,2025-03-27,active,True,payment,30,False,2
+T88063022736,16820,4.99,2025-02-25,Student Plan,2025-03-27,active,True,payment,30,False,2
+T73882557943,16765,7.99,2025-02-25,Standard,2025-03-27,active,True,payment,30,False,2
+T60266855426,16007,-5.99,2025-02-25,Premium,2025-04-26,active,True,refund/credit,60,False,2
+T64898735526,16707,4.99,2025-02-25,Student Plan,2025-03-27,active,True,payment,30,False,2
+T83083336240,16054,7.99,2025-02-25,Standard,2025-03-27,churned,False,payment,30,False,3
+T86564772219,16062,7.99,2025-02-25,Standard,2025-03-27,active,True,payment,30,False,3
+T50717759571,15981,4.99,2025-02-25,Student Plan,2025-03-27,churned,False,payment,30,False,3
+T66758531193,16750,4.99,2025-02-25,Student Plan,2025-03-27,active,True,payment,30,False,2
+T87321352511,15980,4.99,2025-02-25,Student Plan,2025-03-27,active,True,payment,30,False,3
+T93700093717,16084,12.99,2025-02-25,Premium,2025-04-26,active,True,payment,60,False,2
+T81357208647,16764,7.99,2025-02-25,Standard,2025-03-27,active,True,payment,30,False,2
+T82176128567,16801,7.99,2025-02-25,Standard,2025-03-27,active,True,payment,30,False,2
+T86917677953,16001,7.99,2025-02-25,Standard,2025-03-27,active,True,payment,30,False,2
+T82055010773,16805,4.99,2025-02-25,Student Plan,2025-03-27,churned,False,payment,30,False,2
+T71070843119,16723,4.99,2025-02-25,Student Plan,2025-03-27,active,True,payment,30,False,2
+T61354003363,15389,12.99,2025-02-25,Premium,2025-04-26,active,True,payment,60,False,3
+T99825603137,16725,7.99,2025-02-24,Standard,2025-03-26,active,True,payment,30,False,2
+T93898487284,16780,4.99,2025-02-24,Student Plan,2025-03-26,active,True,payment,30,False,2
+T81272396834,16756,4.99,2025-02-24,Student Plan,2025-03-26,active,True,payment,30,False,2
+T75113990252,16014,12.99,2025-02-24,Premium,2025-04-25,active,True,payment,60,False,2
+T98325199360,16688,-5.99,2025-02-24,Standard,2025-03-26,active,True,refund/credit,30,False,2
+T55100686727,16699,7.99,2025-02-24,Standard,2025-03-26,churned,False,payment,30,False,2
+T62001175744,15998,-1.0,2025-02-24,Standard,2025-03-26,active,True,refund/credit,30,False,2
+T64668500052,15306,7.99,2025-02-24,Standard,2025-03-26,active,True,payment,30,False,3
+T91800468931,15302,4.99,2025-02-24,Student Plan,2025-03-26,active,True,payment,30,False,4
+T50281047529,16012,7.99,2025-02-24,Standard,2025-03-26,active,True,payment,30,False,3
+T73310296349,16727,4.99,2025-02-24,Student Plan,2025-03-26,active,True,payment,30,False,2
+T82569226767,15999,4.99,2025-02-24,Student Plan,2025-03-26,active,True,payment,30,False,3
+T50176073517,16010,4.99,2025-02-24,Student Plan,2025-03-26,active,True,payment,30,False,3
+T64028389812,16728,7.99,2025-02-24,Standard,2025-03-26,active,True,payment,30,False,2
+T50676432389,15968,4.99,2025-02-24,Student Plan,2025-03-26,churned,False,payment,30,False,3
+T80828027069,16745,4.99,2025-02-24,Student Plan,2025-03-26,churned,False,payment,30,False,2
+T82475963615,15312,7.99,2025-02-24,Standard,2025-03-26,active,True,payment,30,False,4
+T72009986652,16722,7.99,2025-02-24,Standard,2025-03-26,churned,False,payment,30,False,2
+T53402950121,15903,4.99,2025-02-24,Student Plan,2025-03-26,active,True,payment,30,False,3
+T52178317327,16680,7.99,2025-02-24,Standard,2025-03-26,active,True,payment,30,False,2
+T56040055663,15937,4.99,2025-02-24,Student Plan,2025-03-26,active,True,payment,30,False,3
+T96568312673,16048,7.99,2025-02-24,Standard,2025-03-26,active,True,payment,30,False,2
+T95495794002,16038,12.99,2025-02-24,Premium,2025-04-25,churned,False,payment,60,False,2
+T80402398649,16808,4.99,2025-02-24,Student Plan,2025-03-26,active,True,payment,30,False,2
+T79934702676,16064,12.99,2025-02-24,Premium,2025-04-25,active,True,payment,60,False,2
+T57097119882,15985,12.99,2025-02-23,Premium,2025-04-24,active,True,payment,60,False,2
+T76671989352,16675,7.99,2025-02-23,Standard,2025-03-25,active,True,payment,30,False,2
+T61197771120,15966,12.99,2025-02-23,Premium,2025-04-24,active,True,payment,60,False,2
+T99058793733,16770,4.99,2025-02-23,Student Plan,2025-03-25,active,True,payment,30,False,2
+T75839716993,16025,7.99,2025-02-23,Standard,2025-03-25,active,True,payment,30,False,2
+T79225497776,16766,7.99,2025-02-23,Standard,2025-03-25,active,True,payment,30,False,2
+T95400715223,15971,12.99,2025-02-23,Premium,2025-04-24,active,True,payment,60,False,2
+T77850510559,15973,7.99,2025-02-23,Standard,2025-03-25,active,True,payment,30,False,3
+T79519344343,16037,7.99,2025-02-23,Standard,2025-03-25,active,True,payment,30,False,2
+T65952163998,15920,4.99,2025-02-23,Student Plan,2025-03-25,active,True,payment,30,False,3
+T94771507441,15963,7.99,2025-02-23,Standard,2025-03-25,active,True,payment,30,False,2
+T73078206979,16753,4.99,2025-02-23,Student Plan,2025-03-25,active,True,payment,30,False,2
+T62474864657,16659,7.99,2025-02-23,Standard,2025-03-25,active,True,payment,30,False,2
+T88971407057,16655,12.99,2025-02-23,Premium,2025-04-24,active,True,payment,60,False,2
+T95201441915,15271,12.99,2025-02-23,Premium,2025-04-24,churned,False,payment,60,False,4
+T87825044832,16726,12.99,2025-02-23,Premium,2025-04-24,active,True,payment,60,False,2
+T85272924497,16729,12.99,2025-02-23,Premium,2025-04-24,active,True,payment,60,False,2
+T70712383144,16735,4.99,2025-02-23,Student Plan,2025-03-25,active,True,payment,30,False,2
+T89055242955,16737,7.99,2025-02-23,Standard,2025-03-25,active,True,payment,30,False,2
+T62185355555,15210,7.99,2025-02-23,Standard,2025-03-25,churned,False,payment,30,False,4
+T97965102735,16017,7.99,2025-02-23,Standard,2025-03-25,active,True,payment,30,False,3
+T76846482876,15951,7.99,2025-02-23,Standard,2025-03-25,active,True,payment,30,False,3
+T83706638216,16789,7.99,2025-02-23,Standard,2025-03-25,active,True,payment,30,False,2
+T97272366691,16684,7.99,2025-02-23,Standard,2025-03-25,active,True,payment,30,False,2
+T99120073097,15957,-1.0,2025-02-23,Student Plan,2025-03-25,active,True,refund/credit,30,False,3
+T50834070118,16026,12.99,2025-02-22,Premium,2025-04-23,active,True,payment,60,False,2
+T59245223452,16673,4.99,2025-02-22,Student Plan,2025-03-24,active,True,payment,30,False,2
+T50980887854,16036,12.99,2025-02-22,Premium,2025-04-23,active,True,payment,60,False,2
+T62429239524,15246,4.99,2025-02-22,Student Plan,2025-03-24,active,True,payment,30,False,4
+T65779379846,16682,7.99,2025-02-22,Standard,2025-03-24,active,True,payment,30,False,2
+T69718246734,16656,7.99,2025-02-22,Standard,2025-03-24,churned,False,payment,30,False,2
+T99007954756,16687,4.99,2025-02-22,Student Plan,2025-03-24,active,True,payment,30,False,2
+T71832553997,16646,7.99,2025-02-22,Standard,2025-03-24,active,True,payment,30,False,2
+T68152082645,16717,12.99,2025-02-22,Premium,2025-04-23,active,True,payment,60,False,2
+T57105143398,16632,4.99,2025-02-22,Student Plan,2025-03-24,active,True,payment,30,False,2
+T73989842007,15927,4.99,2025-02-22,Student Plan,2025-03-24,active,True,payment,30,False,3
+T80678564711,16704,12.99,2025-02-22,Premium,2025-04-23,active,True,payment,60,False,2
+T83794769897,16755,7.99,2025-02-22,Standard,2025-03-24,active,True,payment,30,False,2
+T90594442634,16706,4.99,2025-02-22,Student Plan,2025-03-24,churned,False,payment,30,False,2
+T76131410240,15982,7.99,2025-02-22,Standard,2025-03-24,active,True,payment,30,False,3
+T93759760766,15984,7.99,2025-02-22,Standard,2025-03-24,active,True,payment,30,False,3
+T85092155762,16759,7.99,2025-02-22,Standard,2025-03-24,active,True,payment,30,False,2
+T71021053403,15326,-5.99,2025-02-22,Premium,2025-04-23,active,True,refund/credit,60,False,3
+T69367587624,16644,7.99,2025-02-22,Standard,2025-03-24,churned,False,payment,30,False,2
+T65003858177,16748,4.99,2025-02-22,Student Plan,2025-03-24,active,True,payment,30,False,2
+T94037086983,15910,7.99,2025-02-22,Standard,2025-03-24,active,True,payment,30,False,3
+T61887825221,15890,12.99,2025-02-22,Premium,2025-04-23,active,True,payment,60,False,3
+T82391244861,15898,7.99,2025-02-22,Standard,2025-03-24,churned,False,payment,30,False,3
+T55484716801,16742,7.99,2025-02-22,Standard,2025-03-24,active,True,payment,30,False,2
+T58396435721,16662,4.99,2025-02-22,Student Plan,2025-03-24,active,True,payment,30,False,2
+T71509054647,15945,-5.99,2025-02-22,Student Plan,2025-03-24,churned,False,refund/credit,30,False,3
+T88799783958,15964,4.99,2025-02-22,Student Plan,2025-03-24,churned,False,payment,30,False,3
+T87906262783,16744,7.99,2025-02-22,Standard,2025-03-24,active,True,payment,30,False,2
+T96719163672,16648,4.99,2025-02-22,Student Plan,2025-03-24,active,True,payment,30,False,2
+T62975655378,16649,7.99,2025-02-22,Standard,2025-03-24,active,True,payment,30,False,2
+T63975340211,15967,12.99,2025-02-22,Premium,2025-04-23,active,True,payment,60,False,2
+T91108087944,16665,7.99,2025-02-22,Standard,2025-03-24,active,True,payment,30,False,2
+T82798367596,15823,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,3
+T56399194310,15896,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,3
+T93782381851,15901,4.99,2025-02-21,Student Plan,2025-03-23,churned,False,payment,30,False,3
+T89628591283,15900,4.99,2025-02-21,Student Plan,2025-03-23,active,True,payment,30,False,3
+T98910361014,15285,12.99,2025-02-21,Premium,2025-04-22,active,True,payment,60,False,3
+T81519275981,15325,-5.99,2025-02-21,Standard,2025-03-23,active,True,refund/credit,30,False,3
+T86780322413,15283,4.99,2025-02-21,Student Plan,2025-03-23,active,True,payment,30,False,4
+T55244677008,16625,12.99,2025-02-21,Premium,2025-04-22,active,True,payment,60,False,2
+T80128549936,15949,12.99,2025-02-21,Premium,2025-04-22,active,True,payment,60,False,2
+T82431150829,15991,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,3
+T96333511880,16681,7.99,2025-02-21,Standard,2025-03-23,churned,False,payment,30,False,2
+T84950461603,16661,4.99,2025-02-21,Student Plan,2025-03-23,churned,False,payment,30,False,2
+T96868843446,16624,4.99,2025-02-21,Student Plan,2025-03-23,active,True,payment,30,False,2
+T99422234899,16668,7.99,2025-02-21,Standard,2025-03-23,churned,False,payment,30,False,2
+T66896378832,16635,12.99,2025-02-21,Premium,2025-04-22,active,True,payment,60,False,2
+T97190141312,16607,4.99,2025-02-21,Student Plan,2025-03-23,active,True,payment,30,False,2
+T92905144441,16645,4.99,2025-02-21,Student Plan,2025-03-23,active,True,payment,30,False,2
+T60822757458,15914,7.99,2025-02-21,Standard,2025-03-23,churned,False,payment,30,False,3
+T75899003812,15863,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,3
+T70885405126,15883,12.99,2025-02-21,Premium,2025-04-22,churned,False,payment,60,False,3
+T81831502313,15948,12.99,2025-02-21,Premium,2025-04-22,active,True,payment,60,False,2
+T86757748128,15824,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,3
+T74401039215,15884,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,3
+T95958541498,15997,4.99,2025-02-21,Student Plan,2025-03-23,active,True,payment,30,False,3
+T64242441545,15316,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,3
+T86508375404,16711,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,2
+T65997590129,15940,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,3
+T79764913059,15217,3.141689,2025-02-21,Student Plan,2025-03-23,active,True,payment,30,False,4
+T70768928580,15923,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,3
+T77422898641,15970,12.99,2025-02-21,Premium,2025-04-22,active,True,payment,60,False,3
+T70242826342,15955,12.99,2025-02-21,Premium,2025-04-22,active,True,payment,60,False,2
+T59332593297,15969,12.99,2025-02-21,Premium,2025-04-22,active,True,payment,60,False,2
+T94363836437,16697,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,2
+T78456898809,16630,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,2
+T91767045810,16627,4.99,2025-02-21,Student Plan,2025-03-23,active,True,payment,30,False,2
+T75626493368,15974,12.99,2025-02-21,Premium,2025-04-22,active,True,payment,60,False,2
+T61627660633,15931,4.99,2025-02-21,Student Plan,2025-03-23,active,True,payment,30,False,3
+T59997358162,16610,4.99,2025-02-21,Student Plan,2025-03-23,churned,False,payment,30,False,2
+T59624090582,16691,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,2
+T77200028391,15845,4.99,2025-02-21,Student Plan,2025-03-23,active,True,payment,30,False,3
+T82308712860,15935,12.99,2025-02-21,Premium,2025-04-22,churned,False,payment,60,False,2
+T85268724392,15902,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,3
+T55115074070,15206,7.99,2025-02-21,Standard,2025-03-23,churned,False,payment,30,False,4
+T65533663256,16603,7.99,2025-02-21,Standard,2025-03-23,churned,False,payment,30,False,2
+T95268125178,15253,7.99,2025-02-21,Standard,2025-03-23,churned,False,payment,30,False,4
+T76278923112,15229,4.99,2025-02-21,Student Plan,2025-03-23,active,True,payment,30,False,4
+T87481783548,15978,12.99,2025-02-21,Premium,2025-04-22,active,True,payment,60,False,2
+T98312224199,16708,7.99,2025-02-21,Standard,2025-03-23,active,True,payment,30,False,2
+T92604876589,16621,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,2
+T96532911371,15905,12.99,2025-02-20,Premium,2025-04-21,active,True,payment,60,False,2
+T69600740494,15800,12.99,2025-02-20,Premium,2025-04-21,active,True,payment,60,False,3
+T97139419901,15921,12.99,2025-02-20,Premium,2025-04-21,active,True,payment,60,False,2
+T84575733338,15833,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,3
+T78685160703,16580,12.99,2025-02-20,Premium,2025-04-21,active,True,payment,60,False,2
+T78449181972,16689,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,2
+T96261198760,16669,4.99,2025-02-20,Student Plan,2025-03-22,active,True,payment,30,False,2
+T97743809738,15996,12.99,2025-02-20,Premium,2025-04-21,active,True,payment,60,False,2
+T86701934154,15340,12.99,2025-02-20,Premium,2025-04-21,active,True,payment,60,False,3
+T61252835370,16672,4.99,2025-02-20,Student Plan,2025-03-22,active,True,payment,30,False,2
+T87546519458,16640,4.99,2025-02-20,Student Plan,2025-03-22,active,True,payment,30,False,2
+T94620238868,16611,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,2
+T73823217768,16629,7.99,2025-02-20,Standard,2025-03-22,churned,False,payment,30,False,2
+T86343469233,15934,4.99,2025-02-20,Student Plan,2025-03-22,active,True,payment,30,False,3
+T85090559527,15809,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,3
+T86100304712,16593,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,2
+T85086021070,15277,12.99,2025-02-20,Premium,2025-04-21,active,True,payment,60,False,4
+T50891012093,15906,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,3
+T99358059194,16674,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,2
+T67546013564,15871,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,3
+T73532388074,15976,12.99,2025-02-20,Premium,2025-04-21,active,True,payment,60,False,2
+T73430989582,15877,12.99,2025-02-20,Premium,2025-04-21,active,True,payment,60,False,3
+T60390563495,16658,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,2
+T91758243443,15153,4.99,2025-02-20,Student Plan,2025-03-22,churned,False,payment,30,False,4
+T62264689337,15924,4.99,2025-02-20,Student Plan,2025-03-22,active,True,payment,30,False,3
+T64987942054,15988,12.99,2025-02-20,Premium,2025-04-21,churned,False,payment,60,False,2
+T73186661491,16667,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,2
+T67809756809,15155,7.99,2025-02-20,Standard,2025-03-22,churned,False,payment,30,False,4
+T59001515867,15166,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,4
+T95673399221,16598,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,2
+T83795646545,16583,7.99,2025-02-20,Standard,2025-03-22,active,True,payment,30,False,2
+T69558219627,16545,4.99,2025-02-19,Student Plan,2025-03-21,active,True,payment,30,False,2
+T62952028739,16564,12.99,2025-02-19,Premium,2025-04-20,active,True,payment,60,False,2
+T79099500155,16650,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,2
+T83374259345,16617,3.141689,2025-02-19,Student Plan,2025-03-21,active,True,payment,30,False,2
+T69594531784,16551,4.99,2025-02-19,Student Plan,2025-03-21,active,True,payment,30,False,2
+T54732154069,16559,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,2
+T88826037137,15293,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,3
+T97562063782,16565,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,2
+T77939770579,16663,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,2
+T93326887464,16597,4.99,2025-02-19,Student Plan,2025-03-21,active,True,payment,30,False,2
+T69828753080,16615,7.99,2025-02-19,Standard,2025-03-21,churned,False,payment,30,False,2
+T90487434645,16578,4.99,2025-02-19,Student Plan,2025-03-21,active,True,payment,30,False,2
+T78309989688,16639,4.99,2025-02-19,Student Plan,2025-03-21,churned,False,payment,30,False,2
+T51020224604,15808,12.99,2025-02-19,Premium,2025-04-20,active,True,payment,60,False,3
+T54785630073,15828,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,3
+T81926438776,15191,7.99,2025-02-19,Standard,2025-03-21,churned,False,payment,30,False,4
+T58454263575,15268,12.99,2025-02-19,Premium,2025-04-20,active,True,payment,60,False,3
+T55033696143,15861,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,3
+T72171345918,15207,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,4
+T54225754956,15846,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,3
+T81899327164,15278,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,4
+T87117463480,15837,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,3
+T63740940094,15827,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,3
+T52817852867,15915,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,3
+T70029965987,15826,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,3
+T94115638114,15231,12.99,2025-02-19,Premium,2025-04-20,active,True,payment,60,False,3
+T82857948458,15803,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,3
+T70597273592,15802,7.99,2025-02-19,Standard,2025-03-21,churned,False,payment,30,False,3
+T81051406461,15796,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,3
+T97648099227,15257,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,4
+T54652815384,15258,4.99,2025-02-19,Student Plan,2025-03-21,active,True,payment,30,False,4
+T95214427853,15904,12.99,2025-02-19,Premium,2025-04-20,active,True,payment,60,False,2
+T62160474723,15197,4.99,2025-02-19,Student Plan,2025-03-21,active,True,payment,30,False,4
+T90459112807,15959,12.99,2025-02-19,Premium,2025-04-20,active,True,payment,60,False,2
+T79951289659,15936,7.99,2025-02-19,Standard,2025-03-21,churned,False,payment,30,False,3
+T63728415652,15916,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,3
+T74931900667,15947,7.99,2025-02-19,Standard,2025-03-21,churned,False,payment,30,False,3
+T64819724081,15943,12.99,2025-02-19,Premium,2025-04-20,active,True,payment,60,False,2
+T51354141921,15965,7.99,2025-02-19,Standard,2025-03-21,active,True,payment,30,False,2
+T51368632852,16637,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,2
+T82136948422,15243,4.99,2025-02-18,Student Plan,2025-03-20,churned,False,payment,30,False,3
+T67993321056,16623,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,2
+T70424056066,16622,12.99,2025-02-18,Premium,2025-04-19,active,True,payment,60,False,2
+T55119651728,15120,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,4
+T61625268120,16618,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,2
+T53519337067,16548,4.99,2025-02-18,Student Plan,2025-03-20,churned,False,payment,30,False,2
+T62670423069,15821,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,3
+T58437668050,15794,4.99,2025-02-18,Student Plan,2025-03-20,active,True,payment,30,False,3
+T96483974488,15228,12.99,2025-02-18,Premium,2025-04-19,active,True,payment,60,False,4
+T79405524963,15777,4.99,2025-02-18,Student Plan,2025-03-20,active,True,payment,30,False,3
+T79183199015,16643,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,2
+T65357643423,16638,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,2
+T92871016017,15822,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,3
+T94694523075,15233,7.99,2025-02-18,Standard,2025-03-20,churned,False,payment,30,False,4
+T57765580503,16594,7.99,2025-02-18,Standard,2025-03-20,churned,False,payment,30,False,2
+T87322880867,16555,4.99,2025-02-18,Student Plan,2025-03-20,active,True,payment,30,False,2
+T57454509892,16560,4.99,2025-02-18,Student Plan,2025-03-20,active,True,payment,30,False,2
+T76632345050,15847,7.99,2025-02-18,Standard,2025-03-20,churned,False,payment,30,False,3
+T96980161805,15922,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,2
+T65059797983,15850,4.99,2025-02-18,Student Plan,2025-03-20,active,True,payment,30,False,3
+T63430251736,15859,12.99,2025-02-18,Premium,2025-04-19,active,True,payment,60,False,3
+T93162152839,15176,7.99,2025-02-18,Standard,2025-03-20,churned,False,payment,30,False,4
+T70842962781,16602,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,2
+T52369830452,15880,12.99,2025-02-18,Premium,2025-04-19,churned,False,payment,60,False,2
+T64170626982,16586,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,2
+T55066720629,15192,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,4
+T86392167696,15917,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,3
+T72156202971,16591,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,2
+T50927098181,15895,12.99,2025-02-18,Premium,2025-04-19,active,True,payment,60,False,2
+T53585405608,15261,7.99,2025-02-18,Standard,2025-03-20,active,True,payment,30,False,4
+T71409956715,15858,4.99,2025-02-18,Student Plan,2025-03-20,active,True,payment,30,False,3
+T74570593597,15290,12.99,2025-02-18,Premium,2025-04-19,churned,False,payment,60,False,3
+T69524304807,15745,12.99,2025-02-17,Premium,2025-04-18,active,True,payment,60,False,3
+T53742778632,15158,7.99,2025-02-17,Standard,2025-03-19,active,True,payment,30,False,4
+T68047576310,15117,12.99,2025-02-17,Premium,2025-04-18,active,True,payment,60,False,4
+T81949324626,15908,-1.0,2025-02-17,Premium,2025-04-18,churned,False,refund/credit,60,False,2
+T79899292413,15864,12.99,2025-02-17,Premium,2025-04-18,active,True,payment,60,False,3
+T95826911219,15811,4.99,2025-02-17,Student Plan,2025-03-19,active,True,payment,30,False,3
+T76384113790,16585,7.99,2025-02-17,Standard,2025-03-19,churned,False,payment,30,False,2
+T88991083127,16616,7.99,2025-02-17,Standard,2025-03-19,churned,False,payment,30,False,2
+T95497735582,15874,12.99,2025-02-17,Premium,2025-04-18,active,True,payment,60,False,2
+T87862611618,15878,7.99,2025-02-17,Standard,2025-03-19,active,True,payment,30,False,3
+T92337576379,15879,4.99,2025-02-17,Student Plan,2025-03-19,active,True,payment,30,False,3
+T97302186794,16536,12.99,2025-02-17,Premium,2025-04-18,active,True,payment,60,False,2
+T58066411475,16530,4.99,2025-02-17,Student Plan,2025-03-19,active,True,payment,30,False,2
+T65324169415,15202,12.99,2025-02-17,Premium,2025-04-18,churned,False,payment,60,False,3
+T80189849790,15881,4.99,2025-02-17,Student Plan,2025-03-19,active,True,payment,30,False,3
+T90423877537,15932,12.99,2025-02-17,Premium,2025-04-18,active,True,payment,60,False,2
+T98525222556,16587,4.99,2025-02-17,Student Plan,2025-03-19,active,True,payment,30,False,2
+T57905806787,15919,12.99,2025-02-17,Premium,2025-04-18,active,True,payment,60,False,2
+T94264772902,15177,7.99,2025-02-17,Standard,2025-03-19,active,True,payment,30,False,4
+T74607192270,15791,7.99,2025-02-17,Standard,2025-03-19,active,True,payment,30,False,3
+T51279137499,15889,7.99,2025-02-17,Standard,2025-03-19,active,True,payment,30,False,2
+T53177501909,15178,7.99,2025-02-17,Standard,2025-03-19,active,True,payment,30,False,4
+T91866716272,15911,12.99,2025-02-17,Premium,2025-04-18,active,True,payment,60,False,2
+T90983657338,16620,4.99,2025-02-17,Student Plan,2025-03-19,churned,False,payment,30,False,2
+T52108435987,16582,4.99,2025-02-17,Student Plan,2025-03-19,active,True,payment,30,False,2
+T82493193074,16552,4.99,2025-02-17,Student Plan,2025-03-19,active,True,payment,30,False,2
+T83717518579,16554,-1.0,2025-02-17,Student Plan,2025-03-19,active,True,refund/credit,30,False,2
+T90534540039,15856,7.99,2025-02-17,Standard,2025-03-19,active,True,payment,30,False,3
+T51146495863,15832,12.99,2025-02-17,Premium,2025-04-18,active,True,payment,60,False,2
+T93411121237,16563,7.99,2025-02-17,Standard,2025-03-19,active,True,payment,30,False,2
+T74743112096,15829,7.99,2025-02-17,Standard,2025-03-19,churned,False,payment,30,False,3
+T96977837218,16557,7.99,2025-02-17,Standard,2025-03-19,active,True,payment,30,False,2
+T62344794811,15224,12.99,2025-02-17,Premium,2025-04-18,active,True,payment,60,False,3
+T74368882077,16575,7.99,2025-02-17,Standard,2025-03-19,churned,False,payment,30,False,2
+T70895961500,15853,7.99,2025-02-17,Standard,2025-03-19,active,True,payment,30,False,2
+T93009526674,15099,4.99,2025-02-17,Student Plan,2025-03-19,active,True,payment,30,False,4
+T90126344820,15203,12.99,2025-02-17,Premium,2025-04-18,active,True,payment,60,False,3
+T60676907505,15851,12.99,2025-02-17,Premium,2025-04-18,active,True,payment,60,False,2
+T50292820216,16569,7.99,2025-02-16,Standard,2025-03-18,churned,False,payment,30,False,2
+T51753014004,15899,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,2
+T75436563701,16526,7.99,2025-02-16,Standard,2025-03-18,churned,False,payment,30,False,2
+T63193838688,15787,12.99,2025-02-16,Premium,2025-04-17,active,True,payment,60,False,3
+T82173814325,15792,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,3
+T99507025236,16571,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,2
+T50404107626,15209,-5.99,2025-02-16,Premium,2025-04-17,active,True,refund/credit,60,False,3
+T53345940887,15907,12.99,2025-02-16,Premium,2025-04-17,active,True,payment,60,False,2
+T52863309945,16522,4.99,2025-02-16,Student Plan,2025-03-18,active,True,payment,30,False,2
+T85010275195,15795,4.99,2025-02-16,Student Plan,2025-03-18,active,True,payment,30,False,3
+T53376902444,15839,12.99,2025-02-16,Premium,2025-04-17,active,True,payment,60,False,2
+T89660254496,16524,4.99,2025-02-16,Student Plan,2025-03-18,active,True,payment,30,False,2
+T62351408359,15739,7.99,2025-02-16,Standard,2025-03-18,churned,False,payment,30,False,3
+T86977458709,16533,4.99,2025-02-16,Student Plan,2025-03-18,active,True,payment,30,False,2
+T65931311658,15799,12.99,2025-02-16,Premium,2025-04-17,active,True,payment,60,False,2
+T60843973800,15204,7.99,2025-02-16,Standard,2025-03-18,churned,False,payment,30,False,3
+T83198211439,15836,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,2
+T54575503900,15820,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,2
+T76574133640,15241,12.99,2025-02-16,Premium,2025-04-17,active,True,payment,60,False,3
+T59894330892,16558,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,2
+T69846074752,15805,12.99,2025-02-16,Premium,2025-04-17,active,True,payment,60,False,2
+T55885733607,16540,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,2
+T58552593132,16574,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,2
+T64706298403,16553,4.99,2025-02-16,Student Plan,2025-03-18,active,True,payment,30,False,2
+T91193722918,15198,12.99,2025-02-16,Premium,2025-04-17,churned,False,payment,60,False,4
+T59667250412,16547,12.99,2025-02-16,Premium,2025-04-17,active,True,payment,60,False,2
+T56430167461,15862,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,3
+T83545856461,16549,4.99,2025-02-16,Student Plan,2025-03-18,active,True,payment,30,False,2
+T78472695074,16550,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,2
+T79300696106,16511,4.99,2025-02-16,Student Plan,2025-03-18,active,True,payment,30,False,2
+T77506817608,16520,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,2
+T73775188825,15111,-1.0,2025-02-16,Standard,2025-03-18,active,True,refund/credit,30,False,4
+T81013564809,15160,4.99,2025-02-16,Student Plan,2025-03-18,active,True,payment,30,False,4
+T70494067474,15772,4.99,2025-02-16,Student Plan,2025-03-18,churned,False,payment,30,False,3
+T79220991096,16497,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,2
+T67922065842,15918,12.99,2025-02-16,Premium,2025-04-17,active,True,payment,60,False,2
+T87270916770,16493,7.99,2025-02-16,Standard,2025-03-18,active,True,payment,30,False,2
+T89230897387,16543,4.99,2025-02-15,Student Plan,2025-03-17,active,True,payment,30,False,2
+T92164876923,16556,4.99,2025-02-15,Student Plan,2025-03-17,active,True,payment,30,False,2
+T84168222953,15857,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,3
+T93893028136,15751,4.99,2025-02-15,Student Plan,2025-03-17,active,True,payment,30,False,3
+T72518235115,16529,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,2
+T93500020605,16500,4.99,2025-02-15,Student Plan,2025-03-17,active,True,payment,30,False,2
+T71547147200,16531,12.99,2025-02-15,Premium,2025-04-16,churned,False,payment,60,False,2
+T99346380533,16566,4.99,2025-02-15,Student Plan,2025-03-17,active,True,payment,30,False,2
+T60868060141,16488,12.99,2025-02-15,Premium,2025-04-16,active,True,payment,60,False,2
+T98473380826,16461,4.99,2025-02-15,Student Plan,2025-03-17,active,True,payment,30,False,2
+T72427847716,15139,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,4
+T87217215967,16537,4.99,2025-02-15,Student Plan,2025-03-17,active,True,payment,30,False,2
+T53388751284,15116,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,3
+T86625941401,15807,12.99,2025-02-15,Premium,2025-04-16,active,True,payment,60,False,2
+T59882787043,15817,12.99,2025-02-15,Premium,2025-04-16,active,True,payment,60,False,2
+T82062473915,15726,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,3
+T61055307523,15810,12.99,2025-02-15,Premium,2025-04-16,active,True,payment,60,False,2
+T85813088690,15119,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,4
+T79992364348,15766,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,3
+T67126821494,15174,4.99,2025-02-15,Student Plan,2025-03-17,active,True,payment,30,False,4
+T98286919455,15872,12.99,2025-02-15,Premium,2025-04-16,active,True,payment,60,False,2
+T83005876898,16504,12.99,2025-02-15,Premium,2025-04-16,active,True,payment,60,False,2
+T97091352388,16519,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,2
+T95919114972,15849,4.99,2025-02-15,Student Plan,2025-03-17,churned,False,payment,30,False,3
+T79663967275,16508,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,2
+T68605475519,15702,4.99,2025-02-15,Student Plan,2025-03-17,active,True,payment,30,False,3
+T52471680335,16512,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,2
+T73775017815,16481,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,2
+T87419138419,16561,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,2
+T87632173283,15789,4.99,2025-02-15,Student Plan,2025-03-17,active,True,payment,30,False,3
+T96986401488,15779,4.99,2025-02-15,Student Plan,2025-03-17,active,True,payment,30,False,3
+T80187694529,15887,12.99,2025-02-15,Premium,2025-04-16,active,True,payment,60,False,2
+T79983663780,15760,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,3
+T75427222373,15733,7.99,2025-02-15,Standard,2025-03-17,active,True,payment,30,False,3
+T77748602723,15762,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,2
+T54735887454,15720,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,3
+T80648974679,16496,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,2
+T67113551228,15848,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,3
+T99833171949,15755,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,3
+T86635813043,15764,7.99,2025-02-14,Standard,2025-03-16,churned,False,payment,30,False,3
+T53212554995,15830,12.99,2025-02-14,Premium,2025-04-15,active,True,payment,60,False,2
+T92107214221,15701,4.99,2025-02-14,Student Plan,2025-03-16,active,True,payment,30,False,3
+T80996114195,15011,7.99,2025-02-14,Standard,2025-03-16,churned,False,payment,30,False,4
+T99520446452,15096,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,4
+T95710839564,15706,4.99,2025-02-14,Student Plan,2025-03-16,active,True,payment,30,False,3
+T96374088320,15842,12.99,2025-02-14,Premium,2025-04-15,active,True,payment,60,False,2
+T88578591378,15840,12.99,2025-02-14,Premium,2025-04-15,active,True,payment,60,False,2
+T89306074387,16474,4.99,2025-02-14,Student Plan,2025-03-16,churned,False,payment,30,False,2
+T72464490292,15683,12.99,2025-02-14,Premium,2025-04-15,active,True,payment,60,False,3
+T65084061635,15114,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,4
+T95865339291,15855,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,2
+T76934693404,15737,4.99,2025-02-14,Student Plan,2025-03-16,active,True,payment,30,False,3
+T52353696976,16490,7.99,2025-02-14,Standard,2025-03-16,churned,False,payment,30,False,2
+T51722937806,16431,4.99,2025-02-14,Student Plan,2025-03-16,churned,False,payment,30,False,2
+T50294373132,16468,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,2
+T99318952660,16438,12.99,2025-02-14,Premium,2025-04-15,active,True,payment,60,False,2
+T83522679084,15710,4.99,2025-02-14,Student Plan,2025-03-16,active,True,payment,30,False,3
+T71849064151,15750,4.99,2025-02-14,Student Plan,2025-03-16,churned,False,payment,30,False,3
+T52040846639,16433,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,2
+T81203209234,16515,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,2
+T73351714712,16480,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,2
+T59840304840,16528,4.99,2025-02-14,Student Plan,2025-03-16,active,True,payment,30,False,2
+T58212362182,15785,12.99,2025-02-14,Premium,2025-04-15,active,True,payment,60,False,2
+T79395229967,15735,12.99,2025-02-14,Premium,2025-04-15,active,True,payment,60,False,3
+T92202010132,16541,7.99,2025-02-14,Standard,2025-03-16,active,True,payment,30,False,2
+T71605538931,16509,4.99,2025-02-14,Student Plan,2025-03-16,active,True,payment,30,False,2
+T82070179372,15639,4.99,2025-02-13,Student Plan,2025-03-15,active,True,payment,30,False,3
+T88059748623,16485,4.99,2025-02-13,Student Plan,2025-03-15,active,True,payment,30,False,2
+T65632182028,15688,3.141689,2025-02-13,Standard,2025-03-15,churned,False,payment,30,False,3
+T60436753185,16505,4.99,2025-02-13,Student Plan,2025-03-15,active,True,payment,30,False,2
+T74881290655,16513,3.141689,2025-02-13,Standard,2025-03-15,active,True,payment,30,False,2
+T78677925919,16458,4.99,2025-02-13,Student Plan,2025-03-15,active,True,payment,30,False,2
+T69743746630,15065,7.99,2025-02-13,Standard,2025-03-15,active,True,payment,30,False,4
+T99852511965,15083,7.99,2025-02-13,Standard,2025-03-15,active,True,payment,30,False,4
+T91154291723,16432,12.99,2025-02-13,Premium,2025-04-14,active,True,payment,60,False,2
+T74060164978,15085,12.99,2025-02-13,Premium,2025-04-14,active,True,payment,60,False,3
+T98906447339,15704,4.99,2025-02-13,Student Plan,2025-03-15,active,True,payment,30,False,3
+T95618519247,15053,4.99,2025-02-13,Student Plan,2025-03-15,active,True,payment,30,False,4
+T68130096143,16448,4.99,2025-02-13,Student Plan,2025-03-15,active,True,payment,30,False,2
+T80716272106,16451,4.99,2025-02-13,Student Plan,2025-03-15,churned,False,payment,30,False,2
+T56970339452,15825,7.99,2025-02-13,Standard,2025-03-15,churned,False,payment,30,False,2
+T90478582199,15728,4.99,2025-02-13,Student Plan,2025-03-15,active,True,payment,30,False,3
+T79845239129,15749,7.99,2025-02-13,Standard,2025-03-15,churned,False,payment,30,False,2
+T57950220781,15748,12.99,2025-02-13,Premium,2025-04-14,active,True,payment,60,False,2
+T50651087075,16495,4.99,2025-02-13,Student Plan,2025-03-15,active,True,payment,30,False,2
+T95740067499,15127,7.99,2025-02-13,Standard,2025-03-15,active,True,payment,30,False,4
+T59409752244,15122,4.99,2025-02-13,Student Plan,2025-03-15,active,True,payment,30,False,4
+T69799990216,16422,12.99,2025-02-13,Premium,2025-04-14,active,True,payment,60,False,2
+T96881384312,15806,7.99,2025-02-13,Standard,2025-03-15,active,True,payment,30,False,3
+T64673779391,15690,12.99,2025-02-13,Premium,2025-04-14,active,True,payment,60,False,3
+T63012985191,16442,7.99,2025-02-13,Standard,2025-03-15,active,True,payment,30,False,2
+T53543110899,15171,4.99,2025-02-13,Student Plan,2025-03-15,active,True,payment,30,False,4
+T88066631006,15783,12.99,2025-02-13,Premium,2025-04-14,active,True,payment,60,False,3
+T72200501960,15136,7.99,2025-02-13,Standard,2025-03-15,active,True,payment,30,False,4
+T98078056400,15712,2.8998217,2025-02-12,Premium,2025-04-13,active,True,payment,60,False,2
+T53847750025,15722,7.99,2025-02-12,Standard,2025-03-14,active,True,payment,30,False,3
+T93291227248,15184,12.99,2025-02-12,Premium,2025-04-13,active,True,payment,60,False,3
+T85401593144,15719,12.99,2025-02-12,Premium,2025-04-13,active,True,payment,60,False,2
+T50772674244,16457,4.99,2025-02-12,Student Plan,2025-03-14,active,True,payment,30,False,2
+T93883672836,15101,7.99,2025-02-12,Standard,2025-03-14,active,True,payment,30,False,4
+T87528699008,15709,4.99,2025-02-12,Student Plan,2025-03-14,active,True,payment,30,False,3
+T68904081059,16472,12.99,2025-02-12,Premium,2025-04-13,active,True,payment,60,False,2
+T56329570231,15088,7.99,2025-02-12,Standard,2025-03-14,active,True,payment,30,False,4
+T79667400777,16473,4.99,2025-02-12,Student Plan,2025-03-14,churned,False,payment,30,False,2
+T98060511818,15691,4.99,2025-02-12,Student Plan,2025-03-14,active,True,payment,30,False,3
+T88937286383,15752,7.99,2025-02-12,Standard,2025-03-14,active,True,payment,30,False,3
+T69219977748,15780,4.99,2025-02-12,Student Plan,2025-03-14,churned,False,payment,30,False,3
+T50934027580,15651,4.99,2025-02-12,Student Plan,2025-03-14,churned,False,payment,30,False,3
+T90093704490,15695,7.99,2025-02-12,Standard,2025-03-14,churned,False,payment,30,False,3
+T61599567374,16475,4.99,2025-02-12,Student Plan,2025-03-14,active,True,payment,30,False,2
+T79290344129,16417,7.99,2025-02-12,Standard,2025-03-14,active,True,payment,30,False,2
+T55513538835,16498,7.99,2025-02-12,Standard,2025-03-14,churned,False,payment,30,False,2
+T69399543648,15769,12.99,2025-02-12,Premium,2025-04-13,active,True,payment,60,False,2
+T67940474544,15815,12.99,2025-02-12,Premium,2025-04-13,active,True,payment,60,False,2
+T74533217684,16430,4.99,2025-02-12,Student Plan,2025-03-14,active,True,payment,30,False,2
+T74783143074,16494,4.99,2025-02-12,Student Plan,2025-03-14,churned,False,payment,30,False,2
+T76531652201,16413,7.99,2025-02-12,Standard,2025-03-14,active,True,payment,30,False,2
+T99240777262,16487,4.99,2025-02-12,Student Plan,2025-03-14,active,True,payment,30,False,2
+T97527189520,15768,4.99,2025-02-12,Student Plan,2025-03-14,churned,False,payment,30,False,3
+T61232904580,15684,7.99,2025-02-12,Standard,2025-03-14,churned,False,payment,30,False,3
+T93708390037,15698,4.99,2025-02-12,Student Plan,2025-03-14,churned,False,payment,30,False,3
+T88394946833,16400,7.99,2025-02-12,Standard,2025-03-14,active,True,payment,30,False,2
+T95893963979,16486,12.99,2025-02-12,Premium,2025-04-13,active,True,payment,60,False,2
+T64005462015,15643,7.99,2025-02-12,Standard,2025-03-14,active,True,payment,30,False,3
+T85471305839,15746,4.99,2025-02-12,Student Plan,2025-03-14,active,True,payment,30,False,3
+T75113004872,15063,7.99,2025-02-11,Standard,2025-03-13,active,True,payment,30,False,4
+T93809740397,16470,7.99,2025-02-11,Standard,2025-03-13,churned,False,payment,30,False,2
+T67516467690,15775,12.99,2025-02-11,Premium,2025-04-12,active,True,payment,60,False,2
+T89657578310,15715,12.99,2025-02-11,Premium,2025-04-12,active,True,payment,60,False,2
+T78131209881,16436,4.99,2025-02-11,Student Plan,2025-03-13,active,True,payment,30,False,2
+T86888719307,15721,12.99,2025-02-11,Premium,2025-04-12,active,True,payment,60,False,3
+T84239889897,15666,7.99,2025-02-11,Standard,2025-03-13,churned,False,payment,30,False,3
+T61592739461,15771,12.99,2025-02-11,Premium,2025-04-12,churned,False,payment,60,False,2
+T84379420147,15144,7.99,2025-02-11,Standard,2025-03-13,churned,False,payment,30,False,3
+T62240940912,15039,-1.0,2025-02-11,Student Plan,2025-03-13,active,True,refund/credit,30,False,4
+T54744844775,15759,7.99,2025-02-11,Standard,2025-03-13,active,True,payment,30,False,2
+T67340108603,15770,7.99,2025-02-11,Standard,2025-03-13,active,True,payment,30,False,2
+T82518044328,16398,12.99,2025-02-11,Premium,2025-04-12,active,True,payment,60,False,2
+T56614773568,16450,3.141689,2025-02-11,Student Plan,2025-03-13,active,True,payment,30,False,2
+T57866882590,15741,7.99,2025-02-11,Standard,2025-03-13,churned,False,payment,30,False,2
+T92447550570,16424,7.99,2025-02-11,Standard,2025-03-13,active,True,payment,30,False,2
+T70001624162,16404,4.99,2025-02-11,Student Plan,2025-03-13,active,True,payment,30,False,2
+T58103573145,16471,12.99,2025-02-11,Premium,2025-04-12,active,True,payment,60,False,2
+T60114238522,15788,12.99,2025-02-11,Premium,2025-04-12,active,True,payment,60,False,2
+T80927498409,16441,12.99,2025-02-10,Premium,2025-04-11,churned,False,payment,60,False,2
+T67409960575,15670,12.99,2025-02-10,Premium,2025-04-11,active,True,payment,60,False,3
+T76294235105,15113,7.99,2025-02-10,Standard,2025-03-12,active,True,payment,30,False,3
+T97281669958,15108,12.99,2025-02-10,Premium,2025-04-11,active,True,payment,60,False,3
+T95014202826,15675,12.99,2025-02-10,Premium,2025-04-11,active,True,payment,60,False,3
+T91357060238,15676,12.99,2025-02-10,Premium,2025-04-11,active,True,payment,60,False,2
+T81782435999,15089,7.99,2025-02-10,Standard,2025-03-12,churned,False,payment,30,False,4
+T77316066274,15761,7.99,2025-02-10,Standard,2025-03-12,active,True,payment,30,False,2
+T80724546284,16394,7.99,2025-02-10,Standard,2025-03-12,active,True,payment,30,False,2
+T87113328189,16429,7.99,2025-02-10,Standard,2025-03-12,churned,False,payment,30,False,2
+T61722793720,15685,7.99,2025-02-10,Standard,2025-03-12,active,True,payment,30,False,3
+T58690488434,16439,7.99,2025-02-10,Standard,2025-03-12,churned,False,payment,30,False,2
+T84378451466,15035,4.99,2025-02-10,Student Plan,2025-03-12,churned,False,payment,30,False,4
+T50643057417,15022,7.99,2025-02-10,Standard,2025-03-12,churned,False,payment,30,False,4
+T55440704702,15687,12.99,2025-02-10,Premium,2025-04-11,active,True,payment,60,False,3
+T98627695237,16370,4.99,2025-02-10,Student Plan,2025-03-12,active,True,payment,30,False,2
+T99449277773,16372,7.99,2025-02-10,Standard,2025-03-12,active,True,payment,30,False,2
+T82580694094,15754,12.99,2025-02-10,Premium,2025-04-11,active,True,payment,60,False,2
+T97913046234,16378,4.99,2025-02-10,Student Plan,2025-03-12,active,True,payment,30,False,2
+T62460592852,16379,12.99,2025-02-10,Premium,2025-04-11,churned,False,payment,60,False,2
+T79533455612,15671,12.99,2025-02-10,Premium,2025-04-11,active,True,payment,60,False,2
+T79323940779,16428,7.99,2025-02-10,Standard,2025-03-12,active,True,payment,30,False,2
+T72422709407,15734,12.99,2025-02-10,Premium,2025-04-11,active,True,payment,60,False,2
+T76040421878,15693,12.99,2025-02-10,Premium,2025-04-11,active,True,payment,60,False,2
+T60411039931,16435,7.99,2025-02-10,Standard,2025-03-12,active,True,payment,30,False,2
+T99839291081,16423,4.99,2025-02-10,Student Plan,2025-03-12,churned,False,payment,30,False,2
+T50655315429,15692,12.99,2025-02-10,Premium,2025-04-11,active,True,payment,60,False,2
+T51062810379,15731,12.99,2025-02-10,Premium,2025-04-11,active,True,payment,60,False,2
+T94697108870,16437,4.99,2025-02-10,Student Plan,2025-03-12,churned,False,payment,30,False,2
+T76422010787,16388,7.99,2025-02-10,Standard,2025-03-12,active,True,payment,30,False,2
+T56366524793,16418,12.99,2025-02-09,Premium,2025-04-10,active,True,payment,60,False,2
+T74970636911,15650,12.99,2025-02-09,Premium,2025-04-10,active,True,payment,60,False,2
+T99675817014,16359,4.99,2025-02-09,Student Plan,2025-03-11,churned,False,payment,30,False,2
+T98980880747,16369,4.99,2025-02-09,Student Plan,2025-03-11,active,True,payment,30,False,2
+T67237232555,16416,7.99,2025-02-09,Standard,2025-03-11,churned,False,payment,30,False,2
+T75043643369,16403,4.99,2025-02-09,Student Plan,2025-03-11,active,True,payment,30,False,2
+T64978311446,16401,4.99,2025-02-09,Student Plan,2025-03-11,churned,False,payment,30,False,2
+T73328007954,16414,7.99,2025-02-09,Standard,2025-03-11,active,True,payment,30,False,2
+T87586495932,16333,12.99,2025-02-09,Premium,2025-04-10,active,True,payment,60,False,2
+T72454133378,15673,12.99,2025-02-09,Premium,2025-04-10,active,True,payment,60,False,2
+T93844222112,15624,7.99,2025-02-09,Standard,2025-03-11,active,True,payment,30,False,3
+T90843801399,15609,7.99,2025-02-09,Standard,2025-03-11,churned,False,payment,30,False,3
+T50401803509,16415,7.99,2025-02-09,Standard,2025-03-11,active,True,payment,30,False,2
+T55497832520,15672,12.99,2025-02-09,Premium,2025-04-10,churned,False,payment,60,False,2
+T98620565568,15602,7.99,2025-02-09,Standard,2025-03-11,active,True,payment,30,False,3
+T83167495590,15732,12.99,2025-02-09,Premium,2025-04-10,active,True,payment,60,False,2
+T81063929605,16393,4.99,2025-02-09,Student Plan,2025-03-11,active,True,payment,30,False,2
+T87035600775,15680,12.99,2025-02-09,Premium,2025-04-10,active,True,payment,60,False,2
+T51535816057,15642,7.99,2025-02-09,Standard,2025-03-11,churned,False,payment,30,False,3
+T57943538039,15047,4.99,2025-02-09,Student Plan,2025-03-11,active,True,payment,30,False,4
+T74584343528,15055,12.99,2025-02-09,Premium,2025-04-10,active,True,payment,60,False,4
+T79705421788,15584,12.99,2025-02-08,Premium,2025-04-09,active,True,payment,60,False,3
+T76585709827,16361,7.99,2025-02-08,Standard,2025-03-10,churned,False,payment,30,False,2
+T99098467599,16406,12.99,2025-02-08,Premium,2025-04-09,active,True,payment,60,False,2
+T73179071675,15044,12.99,2025-02-08,Premium,2025-04-09,active,True,payment,60,False,3
+T79435759864,15622,7.99,2025-02-08,Standard,2025-03-10,churned,False,payment,30,False,3
+T66075858433,16305,7.99,2025-02-08,Standard,2025-03-10,churned,False,payment,30,False,2
+T80046698579,16335,12.99,2025-02-08,Premium,2025-04-09,active,True,payment,60,False,2
+T83263533886,16327,7.99,2025-02-08,Standard,2025-03-10,churned,False,payment,30,False,2
+T77593628124,16310,4.99,2025-02-08,Student Plan,2025-03-10,churned,False,payment,30,False,2
+T50076504423,16324,7.99,2025-02-08,Standard,2025-03-10,churned,False,payment,30,False,2
+T75752236974,15632,12.99,2025-02-08,Premium,2025-04-09,active,True,payment,60,False,3
+T55967058409,15646,12.99,2025-02-08,Premium,2025-04-09,active,True,payment,60,False,2
+T75256160417,16386,4.99,2025-02-08,Student Plan,2025-03-10,churned,False,payment,30,False,2
+T87903824387,15677,12.99,2025-02-08,Premium,2025-04-09,active,True,payment,60,False,2
+T87794014427,15664,12.99,2025-02-08,Premium,2025-04-09,churned,False,payment,60,False,2
+T66340077589,15045,7.99,2025-02-07,Standard,2025-03-09,churned,False,payment,30,False,3
+T70337784006,16384,12.99,2025-02-07,Premium,2025-04-08,active,True,payment,60,False,2
+T80655395255,15638,12.99,2025-02-07,Premium,2025-04-08,active,True,payment,60,False,2
+T79910655998,15703,12.99,2025-02-07,Premium,2025-04-08,active,True,payment,60,False,2
+T87814036068,15087,7.99,2025-02-07,Standard,2025-03-09,churned,False,payment,30,False,4
+T67175758511,15025,12.99,2025-02-07,Premium,2025-04-08,active,True,payment,60,False,3
+T81277074466,15054,7.99,2025-02-07,Standard,2025-03-09,churned,False,payment,30,False,3
+T84175216965,15707,12.99,2025-02-07,Premium,2025-04-08,active,True,payment,60,False,2
+T73712388120,15681,12.99,2025-02-07,Premium,2025-04-08,active,True,payment,60,False,2
+T62164507272,16357,7.99,2025-02-07,Standard,2025-03-09,churned,False,payment,30,False,2
+T93799801847,16362,12.99,2025-02-07,Premium,2025-04-08,active,True,payment,60,False,2
+T68952269996,16374,3.141689,2025-02-07,Standard,2025-03-09,churned,False,payment,30,False,2
+T67015166798,15640,12.99,2025-02-06,Premium,2025-04-07,active,True,payment,60,False,2
+T70032282048,16251,7.99,2025-02-06,Standard,2025-03-08,churned,False,payment,30,False,2
+T65295715675,15644,4.99,2025-02-06,Student Plan,2025-03-08,churned,False,payment,30,False,3
+T57794564287,16290,12.99,2025-02-06,Premium,2025-04-07,active,True,payment,60,False,2
+T94446074853,16365,12.99,2025-02-06,Premium,2025-04-07,active,True,payment,60,False,2
+T66019150888,15619,7.99,2025-02-06,Standard,2025-03-08,churned,False,payment,30,False,3
+T85343563447,15060,12.99,2025-02-06,Premium,2025-04-07,active,True,payment,60,False,3
+T64351292831,15610,12.99,2025-02-06,Premium,2025-04-07,active,True,payment,60,False,2
+T68061224044,16272,7.99,2025-02-06,Standard,2025-03-08,churned,False,payment,30,False,2
+T94226142042,15652,12.99,2025-02-06,Premium,2025-04-07,active,True,payment,60,False,2
+T59575766106,15553,12.99,2025-02-05,Premium,2025-04-06,active,True,payment,60,False,3
+T76339663589,15531,12.99,2025-02-05,Premium,2025-04-06,active,True,payment,60,False,3
+T74077640122,16345,7.99,2025-02-05,Standard,2025-03-07,churned,False,payment,30,False,2
+T73914384444,15588,12.99,2025-02-05,Premium,2025-04-06,active,True,payment,60,False,2
+T92575390981,15577,12.99,2025-02-05,Premium,2025-04-06,active,True,payment,60,False,2
+T92194985208,15576,12.99,2025-02-05,Premium,2025-04-06,active,True,payment,60,False,2
+T56718582466,15579,12.99,2025-02-05,Premium,2025-04-06,active,True,payment,60,False,2
+T96668702544,15572,12.99,2025-02-05,Premium,2025-04-06,active,True,payment,60,False,2
+T87160844158,16322,7.99,2025-02-05,Standard,2025-03-07,churned,False,payment,30,False,2
+T98954535877,16321,12.99,2025-02-05,Premium,2025-04-06,churned,False,payment,60,False,2
+T53927638403,16328,4.99,2025-02-05,Student Plan,2025-03-07,churned,False,payment,30,False,2
+T77064223856,16289,12.99,2025-02-05,Premium,2025-04-06,active,True,payment,60,False,2
+T69796436306,16262,4.99,2025-02-04,Student Plan,2025-03-06,churned,False,payment,30,False,2
+T71424604753,16239,4.99,2025-02-04,Student Plan,2025-03-06,churned,False,payment,30,False,2
+T52877456614,16245,7.99,2025-02-04,Standard,2025-03-06,churned,False,payment,30,False,2
+T93437076158,15634,12.99,2025-02-04,Premium,2025-04-05,churned,False,payment,60,False,2
+T72672197238,15561,-1.0,2025-02-04,Premium,2025-04-05,active,True,refund/credit,60,False,2
+T89593236775,15566,12.99,2025-02-04,Premium,2025-04-05,active,True,payment,60,False,2
+T67304417954,15568,12.99,2025-02-04,Premium,2025-04-05,active,True,payment,60,False,2
+T55658925768,15589,12.99,2025-02-04,Premium,2025-04-05,active,True,payment,60,False,2
+T86366660486,15600,12.99,2025-02-04,Premium,2025-04-05,active,True,payment,60,False,2
+T79592631380,15620,12.99,2025-02-04,Premium,2025-04-05,active,True,payment,60,False,2
+T65471250664,15625,12.99,2025-02-04,Premium,2025-04-05,active,True,payment,60,False,2
+T93798875377,15596,12.99,2025-02-03,Premium,2025-04-04,active,True,payment,60,False,2
+T84002831406,15608,12.99,2025-02-03,Premium,2025-04-04,active,True,payment,60,False,2
+T83881537497,15618,12.99,2025-02-03,Premium,2025-04-04,active,True,payment,60,False,2
+T69721834164,15506,7.99,2025-02-03,Standard,2025-03-05,churned,False,payment,30,False,3
+T70308278492,16232,12.99,2025-02-03,Premium,2025-04-04,active,True,payment,60,False,2
+T56286993827,16187,7.99,2025-02-03,Standard,2025-03-05,churned,False,payment,30,False,2
+T68530227315,15494,4.99,2025-02-03,Student Plan,2025-03-05,churned,False,payment,30,False,3
+T90688317195,15543,12.99,2025-02-03,Premium,2025-04-04,active,True,payment,60,False,3
+T61802042951,16268,4.99,2025-02-03,Student Plan,2025-03-05,churned,False,payment,30,False,2
+T58656057227,15537,12.99,2025-02-03,Premium,2025-04-04,active,True,payment,60,False,2
+T63841850950,16276,7.99,2025-02-03,Standard,2025-03-05,churned,False,payment,30,False,2
+T63986635471,16166,4.99,2025-02-02,Student Plan,2025-03-04,churned,False,payment,30,False,2
+T95912804185,15601,12.99,2025-02-02,Premium,2025-04-03,churned,False,payment,60,False,2
+T89667636082,16211,7.99,2025-02-02,Standard,2025-03-04,churned,False,payment,30,False,2
+T87706010344,15542,7.99,2025-02-02,Standard,2025-03-04,churned,False,payment,30,False,3
+T87757664032,16220,12.99,2025-02-02,Premium,2025-04-03,churned,False,payment,60,False,2
+T57276048007,16162,4.99,2025-02-02,Student Plan,2025-03-04,churned,False,payment,30,False,2
+T97139380151,15593,12.99,2025-02-02,Premium,2025-04-03,active,True,payment,60,False,2
+T86922031091,15587,12.99,2025-02-02,Premium,2025-04-03,active,True,payment,60,False,2
+T95617163611,15556,12.99,2025-02-02,Premium,2025-04-03,active,True,payment,60,False,2
+T65185907779,16261,7.99,2025-02-02,Standard,2025-03-04,churned,False,payment,30,False,2
+T71673643700,15472,12.99,2025-02-02,Premium,2025-04-03,active,True,payment,60,False,3
+T71475680300,15545,12.99,2025-02-02,Premium,2025-04-03,active,True,payment,60,False,2
+T86410150723,16248,7.99,2025-02-02,Standard,2025-03-04,churned,False,payment,30,False,2
+T89058280293,16270,4.99,2025-02-02,Student Plan,2025-03-04,churned,False,payment,30,False,2
+T72340370263,15503,3.141689,2025-02-02,Student Plan,2025-03-04,churned,False,payment,30,False,3
+T86267269825,16203,12.99,2025-02-01,Premium,2025-04-02,active,True,payment,60,False,2
+T98962140154,16126,7.99,2025-02-01,Standard,2025-03-03,churned,False,payment,30,False,2
+T81883635239,16226,7.99,2025-02-01,Standard,2025-03-03,churned,False,payment,30,False,2
+T77430619823,15574,12.99,2025-02-01,Premium,2025-04-02,active,True,payment,60,False,2
+T61010082033,15582,12.99,2025-02-01,Premium,2025-04-02,active,True,payment,60,False,2
+T86584617561,15530,7.99,2025-02-01,Standard,2025-03-03,churned,False,payment,30,False,3
+T60979350178,15512,12.99,2025-02-01,Premium,2025-04-02,active,True,payment,60,False,2
+T52323389217,15495,12.99,2025-02-01,Premium,2025-04-02,active,True,payment,60,False,2
+T78533297920,15509,3.141689,2025-02-01,Premium,2025-04-02,active,True,payment,60,False,2
+T52158787356,15501,12.99,2025-01-31,Premium,2025-04-01,churned,False,payment,60,False,2
+T99311765771,16154,12.99,2025-01-31,Premium,2025-04-01,active,True,payment,60,False,2
+T57158404744,15544,12.99,2025-01-31,Premium,2025-04-01,active,True,payment,60,False,2
+T71365098396,15453,7.99,2025-01-31,Standard,2025-03-02,churned,False,payment,30,False,3
+T97699021485,15534,12.99,2025-01-31,Premium,2025-04-01,active,True,payment,60,False,2
+T82366427395,15468,12.99,2025-01-31,Premium,2025-04-01,active,True,payment,60,False,2
+T64511384308,16131,12.99,2025-01-31,Premium,2025-04-01,active,True,payment,60,False,2
+T63277461748,15510,12.99,2025-01-31,Premium,2025-04-01,active,True,payment,60,False,2
+T80548643530,16207,7.99,2025-01-31,Standard,2025-03-02,churned,False,payment,30,False,2
+T61016260147,16147,7.99,2025-01-31,Standard,2025-03-02,churned,False,payment,30,False,2
+T61268709442,16105,4.99,2025-01-30,Student Plan,2025-03-01,churned,False,payment,30,False,2
+T90377719076,16977,4.99,2025-01-30,Student Plan,2025-03-01,churned,False,payment,30,False,1
+T74880547848,15463,12.99,2025-01-30,Premium,2025-03-31,active,True,payment,60,False,2
+T98363950635,16111,7.99,2025-01-30,Standard,2025-03-01,churned,False,payment,30,False,2
+T98187965927,16970,12.99,2025-01-30,Premium,2025-03-31,active,True,payment,60,False,1
+T92571598423,16980,12.99,2025-01-30,Premium,2025-03-31,active,True,payment,60,False,1
+T95435884967,16968,4.99,2025-01-30,Student Plan,2025-03-01,churned,False,payment,30,False,1
+T73053209871,17000,12.99,2025-01-30,Premium,2025-03-31,active,True,payment,60,False,1
+T76064618749,15445,12.99,2025-01-30,Premium,2025-03-31,active,True,payment,60,False,3
+T51063460200,16192,12.99,2025-01-30,Premium,2025-03-31,active,True,payment,60,False,2
+T78807195141,16986,12.99,2025-01-30,Premium,2025-03-31,churned,False,payment,60,False,1
+T58939075602,16987,4.99,2025-01-30,Student Plan,2025-03-01,churned,False,payment,30,False,1
+T78581393876,16988,12.99,2025-01-30,Premium,2025-03-31,active,True,payment,60,False,1
+T59741883942,16989,12.99,2025-01-30,Premium,2025-03-31,active,True,payment,60,False,1
+T79673343414,15523,12.99,2025-01-30,Premium,2025-03-31,churned,False,payment,60,False,3
+T76585322059,16984,4.99,2025-01-30,Student Plan,2025-03-01,churned,False,payment,30,False,1
+T51511982222,16994,7.99,2025-01-30,Standard,2025-03-01,churned,False,payment,30,False,1
+T61215960241,16997,7.99,2025-01-30,Standard,2025-03-01,churned,False,payment,30,False,1
+T81983567783,16999,12.99,2025-01-30,Premium,2025-03-31,churned,False,payment,60,False,1
+T81087817856,16190,12.99,2025-01-30,Premium,2025-03-31,active,True,payment,60,False,2
+T86267811796,16985,7.99,2025-01-30,Standard,2025-03-01,churned,False,payment,30,False,1
+T54633363409,16177,12.99,2025-01-30,Premium,2025-03-31,active,True,payment,60,False,2
+T79713007784,16982,7.99,2025-01-30,Standard,2025-03-01,churned,False,payment,30,False,1
+T78160764194,16138,12.99,2025-01-30,Premium,2025-03-31,churned,False,payment,60,False,2
+T78612551072,15454,12.99,2025-01-30,Premium,2025-03-31,active,True,payment,60,False,2
+T52992718701,16089,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,2
+T82543643713,15335,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,3
+T83257657806,15457,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,3
+T64679125991,15452,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,2
+T79671046049,16107,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,2
+T63359342741,16946,4.99,2025-01-29,Student Plan,2025-02-28,churned,False,payment,30,False,1
+T67021331843,15446,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,2
+T66555497564,15461,7.99,2025-01-29,Standard,2025-02-28,churned,False,payment,30,False,3
+T85242371335,15455,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,3
+T87362181927,16947,7.99,2025-01-29,Standard,2025-02-28,churned,False,payment,30,False,1
+T72951058969,16962,7.99,2025-01-29,Standard,2025-02-28,churned,False,payment,30,False,1
+T64016668078,16954,4.99,2025-01-29,Student Plan,2025-02-28,churned,False,payment,30,False,1
+T67377146565,16164,7.99,2025-01-29,Standard,2025-02-28,churned,False,payment,30,False,2
+T76359767857,16952,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,1
+T64805356537,16943,4.99,2025-01-29,Student Plan,2025-02-28,churned,False,payment,30,False,1
+T59435024977,16950,4.99,2025-01-29,Student Plan,2025-02-28,churned,False,payment,30,False,1
+T63950411028,16965,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,1
+T96647350216,15518,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,2
+T91387205442,15406,7.99,2025-01-29,Standard,2025-02-28,churned,False,payment,30,False,3
+T98800265680,16948,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,1
+T84223473057,16957,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,1
+T75924443739,16955,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,1
+T76887653955,16960,12.99,2025-01-29,Premium,2025-03-30,churned,False,payment,60,False,1
+T56480876617,16958,12.99,2025-01-29,Premium,2025-03-30,active,True,payment,60,False,1
+T50542908803,16078,7.99,2025-01-28,Standard,2025-02-27,churned,False,payment,30,False,2
+T68854716646,16938,4.99,2025-01-28,Student Plan,2025-02-27,churned,False,payment,30,False,1
+T58122637669,16928,4.99,2025-01-28,Student Plan,2025-02-27,churned,False,payment,30,False,1
+T79805667075,16933,7.99,2025-01-28,Standard,2025-02-27,churned,False,payment,30,False,1
+T60248851727,16086,7.99,2025-01-28,Standard,2025-02-27,churned,False,payment,30,False,2
+T72658315325,16072,7.99,2025-01-28,Standard,2025-02-27,churned,False,payment,30,False,2
+T80008243875,15491,12.99,2025-01-28,Premium,2025-03-29,active,True,payment,60,False,2
+T73567086961,15456,12.99,2025-01-28,Premium,2025-03-29,active,True,payment,60,False,2
+T94395058682,16937,12.99,2025-01-28,Premium,2025-03-29,churned,False,payment,60,False,1
+T87605692697,16939,4.99,2025-01-28,Student Plan,2025-02-27,churned,False,payment,30,False,1
+T83362481312,16075,4.99,2025-01-28,Student Plan,2025-02-27,churned,False,payment,30,False,2
+T70746295553,16931,4.99,2025-01-28,Student Plan,2025-02-27,churned,False,payment,30,False,1
+T85501561845,16917,12.99,2025-01-28,Premium,2025-03-29,active,True,payment,60,False,1
+T79835868097,16149,4.99,2025-01-28,Student Plan,2025-02-27,churned,False,payment,30,False,2
+T75690808771,15413,12.99,2025-01-28,Premium,2025-03-29,active,True,payment,60,False,2
+T59384929474,16922,12.99,2025-01-28,Premium,2025-03-29,active,True,payment,60,False,1
+T55472576778,16923,4.99,2025-01-28,Student Plan,2025-02-27,churned,False,payment,30,False,1
+T76024619962,15417,4.99,2025-01-28,Student Plan,2025-02-27,churned,False,payment,30,False,3
+T71460996479,15439,12.99,2025-01-28,Premium,2025-03-29,active,True,payment,60,False,2
+T54462310168,15483,12.99,2025-01-28,Premium,2025-03-29,active,True,payment,60,False,2
+T68662483572,16916,12.99,2025-01-28,Premium,2025-03-29,churned,False,payment,60,False,1
+T51961064950,15430,12.99,2025-01-28,Premium,2025-03-29,active,True,payment,60,False,2
+T70659655844,16102,12.99,2025-01-28,Premium,2025-03-29,active,True,payment,60,False,2
+T52963462187,16926,7.99,2025-01-28,Standard,2025-02-27,churned,False,payment,30,False,1
+T96061383083,16886,7.99,2025-01-27,Standard,2025-02-26,churned,False,payment,30,False,1
+T65808437050,15432,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,2
+T87238988075,15338,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,3
+T77585027449,16883,7.99,2025-01-27,Standard,2025-02-26,churned,False,payment,30,False,1
+T84824120365,15396,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,2
+T97887130361,15331,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,3
+T61073913881,15394,7.99,2025-01-27,Standard,2025-02-26,churned,False,payment,30,False,2
+T98572470729,16058,4.99,2025-01-27,Student Plan,2025-02-26,churned,False,payment,30,False,2
+T52994511927,16887,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,1
+T93189505285,16897,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,1
+T71016691222,16899,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,1
+T73476520716,16900,7.99,2025-01-27,Standard,2025-02-26,churned,False,payment,30,False,1
+T57205941651,16091,4.99,2025-01-27,Student Plan,2025-02-26,churned,False,payment,30,False,2
+T74051692717,16093,4.99,2025-01-27,Student Plan,2025-02-26,churned,False,payment,30,False,2
+T77606988005,16901,4.99,2025-01-27,Student Plan,2025-02-26,churned,False,payment,30,False,1
+T52436832916,15459,7.99,2025-01-27,Standard,2025-02-26,churned,False,payment,30,False,2
+T55282776353,16100,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,2
+T74326901622,15460,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,2
+T81734698861,15384,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,2
+T74899036251,16904,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,1
+T85662814097,16909,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,1
+T91174067140,15380,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,2
+T95773521437,16911,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,1
+T75165017897,16913,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,1
+T63840351851,16893,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,1
+T62510501758,16895,-5.99,2025-01-27,Premium,2025-03-28,active,True,refund/credit,60,False,1
+T71266843764,16892,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,1
+T85760618494,16896,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,1
+T95710230760,16915,4.99,2025-01-27,Student Plan,2025-02-26,churned,False,payment,30,False,1
+T80977902312,16065,7.99,2025-01-27,Standard,2025-02-26,churned,False,payment,30,False,2
+T97407014743,16890,12.99,2025-01-27,Premium,2025-03-28,active,True,payment,60,False,1
+T61095975181,16889,7.99,2025-01-27,Standard,2025-02-26,churned,False,payment,30,False,1
+T65765783539,16042,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,2
+T90846204094,15327,7.99,2025-01-26,Standard,2025-02-25,churned,False,payment,30,False,3
+T90759928800,16033,7.99,2025-01-26,Standard,2025-02-25,churned,False,payment,30,False,2
+T75369808049,16882,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,1
+T67463729633,16867,7.99,2025-01-26,Standard,2025-02-25,churned,False,payment,30,False,1
+T74150230427,16866,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,1
+T95445790448,16873,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,1
+T87283793729,16858,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,1
+T76163018654,16857,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,1
+T58747548379,16856,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,1
+T60787986828,16874,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,1
+T53558432542,15433,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,2
+T75718061833,15412,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,2
+T99381403318,15405,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,2
+T58850354261,15418,12.99,2025-01-26,Premium,2025-03-27,churned,False,payment,60,False,2
+T71711546902,15421,4.99,2025-01-26,Student Plan,2025-02-25,churned,False,payment,30,False,3
+T51001262846,15425,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,2
+T77121198859,15427,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,2
+T87398896522,15411,4.99,2025-01-26,Student Plan,2025-02-25,churned,False,payment,30,False,3
+T84533086925,15451,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,2
+T55724011672,15398,12.99,2025-01-26,Premium,2025-03-27,active,True,payment,60,False,2
+T61039590250,16828,7.99,2025-01-25,Standard,2025-02-24,churned,False,payment,30,False,1
+T69183038892,16028,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,2
+T62027645376,16039,7.99,2025-01-25,Standard,2025-02-24,churned,False,payment,30,False,2
+T85293875091,15369,4.99,2025-01-25,Student Plan,2025-02-24,churned,False,payment,30,False,3
+T98460312893,16835,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,1
+T64746081990,16855,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,1
+T71176984689,15404,4.99,2025-01-25,Student Plan,2025-02-24,churned,False,payment,30,False,3
+T60064661470,15403,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,2
+T97653864591,16829,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,1
+T81843314836,16004,7.99,2025-01-25,Standard,2025-02-24,churned,False,payment,30,False,2
+T75295868296,16831,4.99,2025-01-25,Student Plan,2025-02-24,churned,False,payment,30,False,1
+T65733919120,16836,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,1
+T62396651995,16844,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,1
+T73436211654,16846,4.99,2025-01-25,Student Plan,2025-02-24,churned,False,payment,30,False,1
+T60082476915,15355,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,2
+T64043815930,16845,7.99,2025-01-25,Standard,2025-02-24,churned,False,payment,30,False,1
+T96448725464,16850,4.99,2025-01-25,Student Plan,2025-02-24,churned,False,payment,30,False,1
+T78041561057,16843,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,1
+T59087866948,16837,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,1
+T85933415652,16842,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,1
+T72375180677,16841,4.99,2025-01-25,Student Plan,2025-02-24,churned,False,payment,30,False,1
+T71774575923,16840,4.99,2025-01-25,Student Plan,2025-02-24,churned,False,payment,30,False,1
+T68140984244,15353,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,2
+T84536675881,15328,4.99,2025-01-25,Student Plan,2025-02-24,churned,False,payment,30,False,3
+T55721863931,16847,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,1
+T85915492757,15370,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,2
+T75075781648,16824,4.99,2025-01-25,Student Plan,2025-02-24,churned,False,payment,30,False,1
+T67563603987,16825,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,1
+T50900020347,15345,7.99,2025-01-25,Standard,2025-02-24,churned,False,payment,30,False,3
+T84064350930,15383,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,2
+T86639760831,15379,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,2
+T91240558360,16826,12.99,2025-01-25,Premium,2025-03-26,active,True,payment,60,False,1
+T60113423699,15429,7.99,2025-01-25,Standard,2025-02-24,churned,False,payment,30,False,2
+T83856691403,16803,12.99,2025-01-24,Premium,2025-03-25,active,True,payment,60,False,1
+T60467800003,16806,12.99,2025-01-24,Premium,2025-03-25,churned,False,payment,60,False,1
+T85715414449,16819,12.99,2025-01-24,Premium,2025-03-25,active,True,payment,60,False,1
+T89921622048,16035,7.99,2025-01-24,Standard,2025-02-23,churned,False,payment,30,False,2
+T92608060563,15362,12.99,2025-01-24,Premium,2025-03-25,active,True,payment,60,False,2
+T82925287419,16804,4.99,2025-01-24,Student Plan,2025-02-23,churned,False,payment,30,False,1
+T74558954892,16815,4.99,2025-01-24,Student Plan,2025-02-23,churned,False,payment,30,False,1
+T66490721045,16814,12.99,2025-01-24,Premium,2025-03-25,active,True,payment,60,False,1
+T66812544154,15358,12.99,2025-01-24,Premium,2025-03-25,churned,False,payment,60,False,2
+T70316788662,16812,12.99,2025-01-24,Premium,2025-03-25,churned,False,payment,60,False,1
+T87725730506,16816,4.99,2025-01-24,Student Plan,2025-02-23,churned,False,payment,30,False,1
+T76222546356,16817,12.99,2025-01-24,Premium,2025-03-25,active,True,payment,60,False,1
+T69225260444,16810,12.99,2025-01-24,Premium,2025-03-25,active,True,payment,60,False,1
+T69983322689,16809,12.99,2025-01-24,Premium,2025-03-25,active,True,payment,60,False,1
+T97035907545,16807,12.99,2025-01-24,Premium,2025-03-25,active,True,payment,60,False,1
+T61333705489,15334,12.99,2025-01-24,Premium,2025-03-25,active,True,payment,60,False,2
+T84250454697,16796,4.99,2025-01-24,Student Plan,2025-02-23,churned,False,payment,30,False,1
+T74892008894,16799,7.99,2025-01-24,Standard,2025-02-23,churned,False,payment,30,False,1
+T58681520677,16782,12.99,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,1
+T74199719308,16784,4.99,2025-01-23,Student Plan,2025-02-22,churned,False,payment,30,False,1
+T85152584941,15941,12.99,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,2
+T91549456636,15942,12.99,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,2
+T91744125496,16783,12.99,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,1
+T64711016664,16781,2.8998217,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,1
+T88928790186,16786,12.99,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,1
+T53601870363,16787,12.99,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,1
+T84515481198,16788,12.99,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,1
+T99048053033,16790,12.99,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,1
+T68968791515,15319,12.99,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,2
+T72546506490,15953,7.99,2025-01-23,Standard,2025-02-22,churned,False,payment,30,False,2
+T73707947373,16773,12.99,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,1
+T59140075622,16792,12.99,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,1
+T84958674004,16791,12.99,2025-01-23,Premium,2025-03-24,active,True,payment,60,False,1
+T69784898605,16776,12.99,2025-01-23,Premium,2025-03-24,churned,False,payment,60,False,1
+T86929944413,16778,4.99,2025-01-23,Student Plan,2025-02-22,churned,False,payment,30,False,1
+T55865557467,16031,4.99,2025-01-23,Student Plan,2025-02-22,churned,False,payment,30,False,2
+T88921352982,16740,4.99,2025-01-22,Student Plan,2025-02-21,churned,False,payment,30,False,1
+T60213061830,16739,4.99,2025-01-22,Student Plan,2025-02-21,churned,False,payment,30,False,1
+T50255612954,16743,7.99,2025-01-22,Standard,2025-02-21,churned,False,payment,30,False,1
+T71132626619,16760,12.99,2025-01-22,Premium,2025-03-23,active,True,payment,60,False,1
+T70771458901,15223,4.99,2025-01-22,Student Plan,2025-02-21,churned,False,payment,30,False,3
+T86251092826,16771,7.99,2025-01-22,Standard,2025-02-21,churned,False,payment,30,False,1
+T69724461505,16768,7.99,2025-01-22,Standard,2025-02-21,churned,False,payment,30,False,1
+T73989193910,16767,12.99,2025-01-22,Premium,2025-03-23,active,True,payment,60,False,1
+T62546323904,16763,4.99,2025-01-22,Student Plan,2025-02-21,churned,False,payment,30,False,1
+T95969074912,16762,4.99,2025-01-22,Student Plan,2025-02-21,churned,False,payment,30,False,1
+T74679041850,15925,4.99,2025-01-22,Student Plan,2025-02-21,churned,False,payment,30,False,2
+T70247853211,16761,4.99,2025-01-22,Student Plan,2025-02-21,churned,False,payment,30,False,1
+T98336839817,15363,12.99,2025-01-22,Premium,2025-03-23,active,True,payment,60,False,2
+T79854066431,15279,12.99,2025-01-22,Premium,2025-03-23,active,True,payment,60,False,3
+T74202421724,16758,7.99,2025-01-22,Standard,2025-02-21,churned,False,payment,30,False,1
+T58356721644,16757,3.141689,2025-01-22,Standard,2025-02-21,churned,False,payment,30,False,1
+T91121979342,16754,7.99,2025-01-22,Standard,2025-02-21,churned,False,payment,30,False,1
+T74165430005,16752,12.99,2025-01-22,Premium,2025-03-23,active,True,payment,60,False,1
+T64952111538,16751,7.99,2025-01-22,Standard,2025-02-21,churned,False,payment,30,False,1
+T74411352242,16749,12.99,2025-01-22,Premium,2025-03-23,active,True,payment,60,False,1
+T59664233596,16747,12.99,2025-01-22,Premium,2025-03-23,active,True,payment,60,False,1
+T64576958300,16746,12.99,2025-01-22,Premium,2025-03-23,active,True,payment,60,False,1
+T91074320352,16769,12.99,2025-01-22,Premium,2025-03-23,active,True,payment,60,False,1
+T67203467376,16005,-5.99,2025-01-22,Premium,2025-03-23,active,True,refund/credit,60,False,2
+T86417881112,15299,7.99,2025-01-22,Standard,2025-02-21,churned,False,payment,30,False,3
+T88490950927,15993,4.99,2025-01-22,Student Plan,2025-02-21,churned,False,payment,30,False,2
+T85073385679,15321,7.99,2025-01-22,Standard,2025-02-21,churned,False,payment,30,False,2
+T68662425432,15352,12.99,2025-01-22,Premium,2025-03-23,active,True,payment,60,False,3
+T92318378330,15979,12.99,2025-01-22,Premium,2025-03-23,active,True,payment,60,False,2
+T57303573399,16712,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,1
+T99792215669,15270,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,3
+T72457958681,15344,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,2
+T59862415058,15295,12.99,2025-01-21,Premium,2025-03-22,churned,False,payment,60,False,2
+T75955619468,16714,12.99,2025-01-21,Premium,2025-03-22,churned,False,payment,60,False,1
+T53740356180,16715,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,1
+T98257272169,16720,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,1
+T99749998934,16713,7.99,2025-01-21,Standard,2025-02-20,churned,False,payment,30,False,1
+T96626596809,16718,7.99,2025-01-21,Standard,2025-02-20,churned,False,payment,30,False,1
+T62586697256,16719,3.141689,2025-01-21,Student Plan,2025-02-20,churned,False,payment,30,False,1
+T90099390000,15928,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,2
+T70663063583,16721,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,1
+T82227737839,15252,4.99,2025-01-21,Student Plan,2025-02-20,churned,False,payment,30,False,3
+T99155868972,15930,4.99,2025-01-21,Student Plan,2025-02-20,churned,False,payment,30,False,2
+T91680101909,15314,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,2
+T90502394952,15361,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,2
+T99592111299,15975,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,2
+T76265641896,16716,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,1
+T52680662422,16724,4.99,2025-01-21,Student Plan,2025-02-20,churned,False,payment,30,False,1
+T53767337201,16710,4.99,2025-01-21,Student Plan,2025-02-20,churned,False,payment,30,False,1
+T69649518887,15307,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,2
+T64070756232,16730,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,1
+T74747585866,15301,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,2
+T89851267088,15994,4.99,2025-01-21,Student Plan,2025-02-20,churned,False,payment,30,False,2
+T84643411523,15954,7.99,2025-01-21,Standard,2025-02-20,churned,False,payment,30,False,2
+T82604635757,16736,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,1
+T64253326480,16731,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,1
+T89797646043,16732,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,1
+T56682285744,16733,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,1
+T55452498796,16734,12.99,2025-01-21,Premium,2025-03-22,active,True,payment,60,False,1
+T67280354444,16709,12.99,2025-01-21,Premium,2025-03-22,churned,False,payment,60,False,1
+T89743247816,15311,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,2
+T88452390448,16686,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,1
+T97060416546,16690,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,1
+T83816293320,15310,12.99,2025-01-20,Premium,2025-03-21,churned,False,payment,60,False,2
+T50652371998,16698,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,1
+T73292289627,16705,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,1
+T67433680212,16695,4.99,2025-01-20,Student Plan,2025-02-19,churned,False,payment,30,False,1
+T80294433293,16676,4.99,2025-01-20,Student Plan,2025-02-19,churned,False,payment,30,False,1
+T86198330686,16702,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,1
+T69609429395,15251,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,3
+T90160700168,15288,12.99,2025-01-20,Premium,2025-03-21,churned,False,payment,60,False,2
+T57147877541,16678,7.99,2025-01-20,Standard,2025-02-19,churned,False,payment,30,False,1
+T94006506618,16683,4.99,2025-01-20,Student Plan,2025-02-19,churned,False,payment,30,False,1
+T78808418700,15956,4.99,2025-01-20,Student Plan,2025-02-19,churned,False,payment,30,False,2
+T73759797016,15292,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,2
+T68430031878,16693,7.99,2025-01-20,Standard,2025-02-19,churned,False,payment,30,False,1
+T98806001163,16703,4.99,2025-01-20,Student Plan,2025-02-19,churned,False,payment,30,False,1
+T81571021916,16701,7.99,2025-01-20,Standard,2025-02-19,churned,False,payment,30,False,1
+T78288867470,15341,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,2
+T98812075816,16679,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,1
+T50964303149,16685,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,1
+T81753982855,15972,4.99,2025-01-20,Student Plan,2025-02-19,churned,False,payment,30,False,2
+T51408404238,15284,7.99,2025-01-20,Standard,2025-02-19,churned,False,payment,30,False,3
+T97889668705,15195,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,3
+T53958116085,15272,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,3
+T68250252158,15305,7.99,2025-01-20,Standard,2025-02-19,churned,False,payment,30,False,3
+T82110777224,16677,4.99,2025-01-20,Student Plan,2025-02-19,churned,False,payment,30,False,1
+T84218963808,16692,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,1
+T54660990014,16696,12.99,2025-01-20,Premium,2025-03-21,churned,False,payment,60,False,1
+T85074805204,15300,4.99,2025-01-20,Student Plan,2025-02-19,churned,False,payment,30,False,3
+T79330351105,16694,4.99,2025-01-20,Student Plan,2025-02-19,churned,False,payment,30,False,1
+T85166278075,15205,7.99,2025-01-20,Standard,2025-02-19,churned,False,payment,30,False,3
+T79008683563,16700,12.99,2025-01-20,Premium,2025-03-21,active,True,payment,60,False,1
+T85004917942,16660,12.99,2025-01-19,Premium,2025-03-20,active,True,payment,60,False,1
+T97617025860,15227,12.99,2025-01-19,Premium,2025-03-20,active,True,payment,60,False,3
+T70461567337,15320,12.99,2025-01-19,Premium,2025-03-20,active,True,payment,60,False,2
+T73301762401,15199,7.99,2025-01-19,Standard,2025-02-18,churned,False,payment,30,False,3
+T92434157720,15867,12.99,2025-01-19,Premium,2025-03-20,active,True,payment,60,False,2
+T85840902519,16671,12.99,2025-01-19,Premium,2025-03-20,active,True,payment,60,False,1
+T73671037082,16670,2.8998217,2025-01-19,Premium,2025-03-20,active,True,payment,60,False,1
+T79957489363,15870,4.99,2025-01-19,Student Plan,2025-02-18,churned,False,payment,30,False,2
+T72307201018,16666,7.99,2025-01-19,Standard,2025-02-18,churned,False,payment,30,False,1
+T54392453250,16664,12.99,2025-01-19,Premium,2025-03-20,churned,False,payment,60,False,1
+T69045541862,15322,12.99,2025-01-19,Premium,2025-03-20,active,True,payment,60,False,2
+T81045185514,15250,7.99,2025-01-19,Standard,2025-02-18,churned,False,payment,30,False,2
+T50945862272,15274,2.8998217,2025-01-19,Premium,2025-03-20,churned,False,payment,60,False,2
+T61036046745,16653,12.99,2025-01-19,Premium,2025-03-20,active,True,payment,60,False,1
+T71260166596,16654,12.99,2025-01-19,Premium,2025-03-20,churned,False,payment,60,False,1
+T77028920501,16652,12.99,2025-01-19,Premium,2025-03-20,active,True,payment,60,False,1
+T65124960147,16657,7.99,2025-01-19,Standard,2025-02-18,churned,False,payment,30,False,1
+T64412101600,15286,12.99,2025-01-19,Premium,2025-03-20,active,True,payment,60,False,3
+T51821065352,15291,12.99,2025-01-19,Premium,2025-03-20,active,True,payment,60,False,2
+T95092723454,15256,7.99,2025-01-19,Standard,2025-02-18,churned,False,payment,30,False,3
+T77198765804,15938,12.99,2025-01-19,Premium,2025-03-20,active,True,payment,60,False,2
+T78398595678,15929,12.99,2025-01-19,Premium,2025-03-20,churned,False,payment,60,False,2
+T85173258105,15235,12.99,2025-01-18,Premium,2025-03-19,active,True,payment,60,False,2
+T75102264138,16626,12.99,2025-01-18,Premium,2025-03-19,churned,False,payment,60,False,1
+T87759214696,15275,12.99,2025-01-18,Premium,2025-03-19,active,True,payment,60,False,2
+T70222482688,15893,7.99,2025-01-18,Standard,2025-02-17,churned,False,payment,30,False,2
+T95188321782,16631,12.99,2025-01-18,Premium,2025-03-19,active,True,payment,60,False,1
+T97786815355,16642,12.99,2025-01-18,Premium,2025-03-19,active,True,payment,60,False,1
+T70580704993,16647,4.99,2025-01-18,Student Plan,2025-02-17,churned,False,payment,30,False,1
+T89016932945,16633,12.99,2025-01-18,Premium,2025-03-19,active,True,payment,60,False,1
+T71454273021,16628,4.99,2025-01-18,Student Plan,2025-02-17,churned,False,payment,30,False,1
+T50353407272,15308,-5.99,2025-01-18,Premium,2025-03-19,active,True,refund/credit,60,False,2
+T72525500418,16634,7.99,2025-01-18,Standard,2025-02-17,churned,False,payment,30,False,1
+T65600795812,15232,12.99,2025-01-18,Premium,2025-03-19,active,True,payment,60,False,3
+T78791446225,15266,12.99,2025-01-18,Premium,2025-03-19,churned,False,payment,60,False,2
+T93523938605,15885,7.99,2025-01-18,Standard,2025-02-17,churned,False,payment,30,False,2
+T77274190844,16651,12.99,2025-01-18,Premium,2025-03-19,active,True,payment,60,False,1
+T55912690619,15244,12.99,2025-01-18,Premium,2025-03-19,churned,False,payment,60,False,3
+T91784353946,16636,4.99,2025-01-18,Student Plan,2025-02-17,churned,False,payment,30,False,1
+T72591397150,15269,7.99,2025-01-18,Standard,2025-02-17,churned,False,payment,30,False,3
+T69475390093,16641,12.99,2025-01-18,Premium,2025-03-19,active,True,payment,60,False,1
+T96471907451,15239,12.99,2025-01-18,Premium,2025-03-19,churned,False,payment,60,False,2
+T96608331216,15282,12.99,2025-01-17,Premium,2025-03-18,churned,False,payment,60,False,2
+T57470833963,16608,12.99,2025-01-17,Premium,2025-03-18,churned,False,payment,60,False,1
+T60715315574,15844,7.99,2025-01-17,Standard,2025-02-16,churned,False,payment,30,False,2
+T56875822338,16609,7.99,2025-01-17,Standard,2025-02-16,churned,False,payment,30,False,1
+T69394705696,15193,4.99,2025-01-17,Student Plan,2025-02-16,churned,False,payment,30,False,3
+T51757732192,15249,12.99,2025-01-17,Premium,2025-03-18,active,True,payment,60,False,2
+T86520630990,15834,12.99,2025-01-17,Premium,2025-03-18,active,True,payment,60,False,2
+T81072125029,16600,12.99,2025-01-17,Premium,2025-03-18,active,True,payment,60,False,1
+T56017396209,15260,12.99,2025-01-17,Premium,2025-03-18,active,True,payment,60,False,2
+T50041770733,15913,4.99,2025-01-17,Student Plan,2025-02-16,churned,False,payment,30,False,2
+T90142384047,16601,7.99,2025-01-17,Standard,2025-02-16,churned,False,payment,30,False,1
+T93151930732,15892,4.99,2025-01-17,Student Plan,2025-02-16,churned,False,payment,30,False,2
+T74417432264,15886,4.99,2025-01-17,Student Plan,2025-02-16,churned,False,payment,30,False,2
+T72293935687,16613,12.99,2025-01-17,Premium,2025-03-18,active,True,payment,60,False,1
+T66719647969,15868,7.99,2025-01-17,Standard,2025-02-16,churned,False,payment,30,False,2
+T98891790950,16604,12.99,2025-01-17,Premium,2025-03-18,active,True,payment,60,False,1
+T99367635476,16605,12.99,2025-01-17,Premium,2025-03-18,active,True,payment,60,False,1
+T83263818703,15242,12.99,2025-01-17,Premium,2025-03-18,active,True,payment,60,False,2
+T86989222970,16606,12.99,2025-01-17,Premium,2025-03-18,active,True,payment,60,False,1
+T83676318051,16612,12.99,2025-01-17,Premium,2025-03-18,active,True,payment,60,False,1
+T63937455434,16619,12.99,2025-01-17,Premium,2025-03-18,active,True,payment,60,False,1
+T86372634903,15280,-5.99,2025-01-17,Standard,2025-02-16,churned,False,refund/credit,30,False,2
+T89505615094,16614,12.99,2025-01-17,Premium,2025-03-18,active,True,payment,60,False,1
+T67260656044,16579,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,1
+T59934200672,15882,7.99,2025-01-16,Standard,2025-02-15,churned,False,payment,30,False,2
+T87670085019,16568,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,1
+T98496998613,16577,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,1
+T54495958201,15888,7.99,2025-01-16,Standard,2025-02-15,churned,False,payment,30,False,2
+T67742379415,16576,4.99,2025-01-16,Student Plan,2025-02-15,churned,False,payment,30,False,1
+T74113754279,15891,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,2
+T85828873367,16570,4.99,2025-01-16,Student Plan,2025-02-15,churned,False,payment,30,False,1
+T68021816208,16572,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,1
+T99070447278,16573,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,1
+T57445709529,15208,12.99,2025-01-16,Premium,2025-03-17,churned,False,payment,60,False,2
+T74568526455,15237,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,2
+T62877381159,16589,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,1
+T68800991477,16590,4.99,2025-01-16,Student Plan,2025-02-15,churned,False,payment,30,False,1
+T69443010222,16592,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,1
+T78286433057,16596,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,1
+T60567101461,15812,7.99,2025-01-16,Standard,2025-02-15,churned,False,payment,30,False,2
+T85764405976,16595,12.99,2025-01-16,Premium,2025-03-17,churned,False,payment,60,False,1
+T98426346939,15240,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,2
+T85140508434,15797,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,2
+T53835249654,16599,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,1
+T61714082623,16588,4.99,2025-01-16,Student Plan,2025-02-15,churned,False,payment,30,False,1
+T82153933300,16584,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,1
+T68219560373,16581,12.99,2025-01-16,Premium,2025-03-17,active,True,payment,60,False,1
+T85411592515,15782,4.99,2025-01-16,Student Plan,2025-02-15,churned,False,payment,30,False,2
+T61496381959,16544,12.99,2025-01-15,Premium,2025-03-16,active,True,payment,60,False,1
+T50487751373,16562,12.99,2025-01-15,Premium,2025-03-16,active,True,payment,60,False,1
+T94631443590,16546,12.99,2025-01-15,Premium,2025-03-16,active,True,payment,60,False,1
+T93246533400,15793,4.99,2025-01-15,Student Plan,2025-02-14,churned,False,payment,30,False,2
+T65610194065,16567,3.141689,2025-01-15,Premium,2025-03-16,active,True,payment,60,False,1
+T69866554482,15200,12.99,2025-01-15,Premium,2025-03-16,active,True,payment,60,False,2
+T85034954070,15841,7.99,2025-01-15,Standard,2025-02-14,churned,False,payment,30,False,2
+T53902961387,15838,12.99,2025-01-15,Premium,2025-03-16,active,True,payment,60,False,2
+T87949500205,15134,4.99,2025-01-15,Student Plan,2025-02-14,churned,False,payment,30,False,3
+T75568218010,15179,12.99,2025-01-15,Premium,2025-03-16,active,True,payment,60,False,3
+T68297269788,16538,12.99,2025-01-14,Premium,2025-03-15,active,True,payment,60,False,1
+T74261401284,16539,4.99,2025-01-14,Student Plan,2025-02-13,churned,False,payment,30,False,1
+T98245686965,15182,4.99,2025-01-14,Student Plan,2025-02-13,churned,False,payment,30,False,3
+T65316499466,15740,7.99,2025-01-14,Standard,2025-02-13,churned,False,payment,30,False,2
+T74451246033,16542,4.99,2025-01-14,Student Plan,2025-02-13,churned,False,payment,30,False,1
+T68706302340,16532,12.99,2025-01-14,Premium,2025-03-15,active,True,payment,60,False,1
+T71989459961,15152,7.99,2025-01-14,Standard,2025-02-13,churned,False,payment,30,False,3
+T57235611200,16534,12.99,2025-01-14,Premium,2025-03-15,active,True,payment,60,False,1
+T59269534625,15819,7.99,2025-01-14,Standard,2025-02-13,churned,False,payment,30,False,2
+T60415183016,16535,12.99,2025-01-14,Premium,2025-03-15,active,True,payment,60,False,1
+T78953031910,16527,7.99,2025-01-14,Standard,2025-02-13,churned,False,payment,30,False,1
+T79415234116,15194,12.99,2025-01-14,Premium,2025-03-15,active,True,payment,60,False,2
+T62560471804,15154,7.99,2025-01-14,Standard,2025-02-13,churned,False,payment,30,False,3
+T69010411156,16517,12.99,2025-01-13,Premium,2025-03-14,active,True,payment,60,False,1
+T80821836582,15181,12.99,2025-01-13,Premium,2025-03-14,active,True,payment,60,False,2
+T93618046088,16518,12.99,2025-01-13,Premium,2025-03-14,active,True,payment,60,False,1
+T59843205826,15814,12.99,2025-01-13,Premium,2025-03-14,active,True,payment,60,False,2
+T91413910518,15218,12.99,2025-01-13,Premium,2025-03-14,active,True,payment,60,False,2
+T69567868635,16521,12.99,2025-01-13,Premium,2025-03-14,churned,False,payment,60,False,1
+T72449106376,16525,4.99,2025-01-13,Student Plan,2025-02-12,churned,False,payment,30,False,1
+T88932772273,16503,7.99,2025-01-13,Standard,2025-02-12,churned,False,payment,30,False,1
+T64065983505,16502,12.99,2025-01-13,Premium,2025-03-14,active,True,payment,60,False,1
+T61923298924,16501,12.99,2025-01-13,Premium,2025-03-14,churned,False,payment,60,False,1
+T61231919307,15778,12.99,2025-01-13,Premium,2025-03-14,active,True,payment,60,False,2
+T51112247694,16510,12.99,2025-01-13,Premium,2025-03-14,active,True,payment,60,False,1
+T91817522939,16514,12.99,2025-01-13,Premium,2025-03-14,active,True,payment,60,False,1
+T98771583881,15724,4.99,2025-01-13,Student Plan,2025-02-12,churned,False,payment,30,False,2
+T78963429920,16516,12.99,2025-01-13,Premium,2025-03-14,active,True,payment,60,False,1
+T69256852294,16507,4.99,2025-01-13,Student Plan,2025-02-12,churned,False,payment,30,False,1
+T56175955124,16506,12.99,2025-01-13,Premium,2025-03-14,active,True,payment,60,False,1
+T68449554447,15773,7.99,2025-01-12,Standard,2025-02-11,churned,False,payment,30,False,2
+T58758939214,16483,12.99,2025-01-12,Premium,2025-03-13,active,True,payment,60,False,1
+T82148040772,15705,4.99,2025-01-12,Student Plan,2025-02-11,churned,False,payment,30,False,2
+T62606397756,15776,7.99,2025-01-12,Standard,2025-02-11,churned,False,payment,30,False,2
+T93915100793,15133,12.99,2025-01-12,Premium,2025-03-13,active,True,payment,60,False,3
+T66500701354,15082,12.99,2025-01-12,Premium,2025-03-13,active,True,payment,60,False,3
+T50922222878,15216,-5.99,2025-01-12,Premium,2025-03-13,churned,False,refund/credit,60,False,2
+T94995096840,15106,7.99,2025-01-12,Standard,2025-02-11,churned,False,payment,30,False,3
+T85805859163,16492,4.99,2025-01-12,Student Plan,2025-02-11,churned,False,payment,30,False,1
+T94682735954,16489,4.99,2025-01-12,Student Plan,2025-02-11,churned,False,payment,30,False,1
+T61129117250,15098,12.99,2025-01-12,Premium,2025-03-13,active,True,payment,60,False,3
+T86091131548,16466,12.99,2025-01-11,Premium,2025-03-12,active,True,payment,60,False,1
+T51091773641,16465,12.99,2025-01-11,Premium,2025-03-12,active,True,payment,60,False,1
+T73307236982,15686,7.99,2025-01-11,Standard,2025-02-10,churned,False,payment,30,False,2
+T73774221866,15674,4.99,2025-01-11,Student Plan,2025-02-10,churned,False,payment,30,False,2
+T73451134879,16478,7.99,2025-01-11,Standard,2025-02-10,churned,False,payment,30,False,1
+T57623941098,16477,7.99,2025-01-11,Standard,2025-02-10,churned,False,payment,30,False,1
+T93584467881,16476,12.99,2025-01-11,Premium,2025-03-12,active,True,payment,60,False,1
+T56695815825,16464,3.141689,2025-01-11,Premium,2025-03-12,active,True,payment,60,False,1
+T79655314384,15767,4.99,2025-01-11,Student Plan,2025-02-10,churned,False,payment,30,False,2
+T98307758796,15756,4.99,2025-01-11,Student Plan,2025-02-10,churned,False,payment,30,False,2
+T79846248077,16460,4.99,2025-01-11,Student Plan,2025-02-10,churned,False,payment,30,False,1
+T80350492181,16459,4.99,2025-01-11,Student Plan,2025-02-10,churned,False,payment,30,False,1
+T81870350372,15130,12.99,2025-01-10,Premium,2025-03-11,churned,False,payment,60,False,2
+T68834958673,16434,7.99,2025-01-10,Standard,2025-02-09,churned,False,payment,30,False,1
+T80848921046,15753,4.99,2025-01-10,Student Plan,2025-02-09,churned,False,payment,30,False,2
+T94144639857,15123,7.99,2025-01-10,Standard,2025-02-09,churned,False,payment,30,False,2
+T62272807877,15747,4.99,2025-01-10,Student Plan,2025-02-09,churned,False,payment,30,False,2
+T57294874934,16453,7.99,2025-01-10,Standard,2025-02-09,churned,False,payment,30,False,1
+T90768239587,15743,4.99,2025-01-10,Student Plan,2025-02-09,churned,False,payment,30,False,2
+T69170181528,16449,12.99,2025-01-10,Premium,2025-03-11,churned,False,payment,60,False,1
+T67629406636,15736,4.99,2025-01-10,Student Plan,2025-02-09,churned,False,payment,30,False,2
+T57643144304,16445,4.99,2025-01-10,Student Plan,2025-02-09,churned,False,payment,30,False,1
+T89588855458,16443,7.99,2025-01-10,Standard,2025-02-09,churned,False,payment,30,False,1
+T79384767560,15157,12.99,2025-01-10,Premium,2025-03-11,active,True,payment,60,False,2
+T57925793580,15093,12.99,2025-01-09,Premium,2025-03-10,churned,False,payment,60,False,2
+T78682380349,15714,7.99,2025-01-09,Standard,2025-02-08,churned,False,payment,30,False,2
+T75949453896,15129,7.99,2025-01-09,Standard,2025-02-08,churned,False,payment,30,False,3
+T70851365096,15725,7.99,2025-01-09,Standard,2025-02-08,churned,False,payment,30,False,2
+T98889912635,15667,4.99,2025-01-09,Student Plan,2025-02-08,churned,False,payment,30,False,2
+T86242608800,15104,7.99,2025-01-09,Standard,2025-02-08,churned,False,payment,30,False,3
+T63489169518,15109,7.99,2025-01-08,Standard,2025-02-07,churned,False,payment,30,False,2
+T66862062984,15115,7.99,2025-01-08,Standard,2025-02-07,churned,False,payment,30,False,2
+T66124860336,15613,4.99,2025-01-08,Student Plan,2025-02-07,churned,False,payment,30,False,2
+T94399321401,15623,-1.0,2025-01-08,Student Plan,2025-02-07,churned,False,refund/credit,30,False,2
+T98827490452,16409,7.99,2025-01-08,Standard,2025-02-07,churned,False,payment,30,False,1
+T95295499209,16408,7.99,2025-01-08,Standard,2025-02-07,churned,False,payment,30,False,1
+T80252478933,16397,4.99,2025-01-08,Student Plan,2025-02-07,churned,False,payment,30,False,1
+T60527756686,16391,12.99,2025-01-07,Premium,2025-03-08,churned,False,payment,60,False,1
+T94135957035,15663,4.99,2025-01-07,Student Plan,2025-02-06,churned,False,payment,30,False,2
+T61860980019,15094,7.99,2025-01-07,Standard,2025-02-06,churned,False,payment,30,False,2
+T82398919629,16382,7.99,2025-01-07,Standard,2025-02-06,churned,False,payment,30,False,1
+T99071824185,16380,4.99,2025-01-07,Student Plan,2025-02-06,churned,False,payment,30,False,1
+T62301979930,15657,7.99,2025-01-07,Standard,2025-02-06,churned,False,payment,30,False,2
+T88523733345,16377,4.99,2025-01-07,Student Plan,2025-02-06,churned,False,payment,30,False,1
+T58455027583,16355,12.99,2025-01-06,Premium,2025-03-07,churned,False,payment,60,False,1
+T81721312228,16358,4.99,2025-01-06,Student Plan,2025-02-05,churned,False,payment,30,False,1
+T52808656878,15100,7.99,2025-01-06,Standard,2025-02-05,churned,False,payment,30,False,2
+T93719013737,15034,12.99,2025-01-06,Premium,2025-03-07,churned,False,payment,60,False,2
+T64325794452,15040,4.99,2025-01-06,Student Plan,2025-02-05,churned,False,payment,30,False,3
+T75095463875,16363,7.99,2025-01-06,Standard,2025-02-05,churned,False,payment,30,False,1
+T93954201269,16364,2.8998217,2025-01-06,Standard,2025-02-05,churned,False,payment,30,False,1
+T62486674617,16367,4.99,2025-01-06,Student Plan,2025-02-05,churned,False,payment,30,False,1
+T72482353322,15004,7.99,2025-01-06,Standard,2025-02-05,churned,False,payment,30,False,3
+T83982543174,16343,4.99,2025-01-05,Student Plan,2025-02-04,churned,False,payment,30,False,1
+T90498122612,15562,7.99,2025-01-05,Standard,2025-02-04,churned,False,payment,30,False,2
+T77215130020,16332,12.99,2025-01-05,Premium,2025-03-06,churned,False,payment,60,False,1
+T67769925141,16329,4.99,2025-01-05,Student Plan,2025-02-04,churned,False,payment,30,False,1
+T67528257762,15032,4.99,2025-01-05,Student Plan,2025-02-04,churned,False,payment,30,False,3
+T51800644832,16307,4.99,2025-01-04,Student Plan,2025-02-03,churned,False,payment,30,False,1
+T69539414007,16301,4.99,2025-01-04,Student Plan,2025-02-03,churned,False,payment,30,False,1
+T72974601281,16306,7.99,2025-01-04,Standard,2025-02-03,churned,False,payment,30,False,1
+T73069077997,16318,4.99,2025-01-04,Student Plan,2025-02-03,churned,False,payment,30,False,1
+T84579661435,15551,7.99,2025-01-04,Standard,2025-02-03,churned,False,payment,30,False,2
+T56197974757,16323,7.99,2025-01-04,Standard,2025-02-03,churned,False,payment,30,False,1
+T94984296982,15533,12.99,2025-01-04,Premium,2025-03-05,churned,False,payment,60,False,2
+T67279292066,15606,7.99,2025-01-04,Standard,2025-02-03,churned,False,payment,30,False,2
+T72332071303,15018,7.99,2025-01-04,Standard,2025-02-03,churned,False,payment,30,False,3
+T92857635700,16300,4.99,2025-01-03,Student Plan,2025-02-02,churned,False,payment,30,False,1
+T82826700569,15598,-1.0,2025-01-03,Student Plan,2025-02-02,churned,False,refund/credit,30,False,2
+T86043340388,16285,7.99,2025-01-03,Standard,2025-02-02,churned,False,payment,30,False,1
+T64121489505,16280,7.99,2025-01-03,Standard,2025-02-02,churned,False,payment,30,False,1
+T84953390949,16293,4.99,2025-01-03,Student Plan,2025-02-02,churned,False,payment,30,False,1
+T82170889949,16298,4.99,2025-01-03,Student Plan,2025-02-02,churned,False,payment,30,False,1
+T76361624054,16267,12.99,2025-01-02,Premium,2025-03-03,churned,False,payment,60,False,1
+T94740981860,15516,7.99,2025-01-02,Standard,2025-02-01,churned,False,payment,30,False,2
+T81751167071,15488,7.99,2025-01-02,Standard,2025-02-01,churned,False,payment,30,False,2
+T70176136442,16256,4.99,2025-01-02,Student Plan,2025-02-01,churned,False,payment,30,False,1
+T57476190946,15571,2.8998217,2025-01-02,Standard,2025-02-01,churned,False,payment,30,False,2
+T73291499934,16255,12.99,2025-01-02,Premium,2025-03-03,churned,False,payment,60,False,1
+T71712331967,16253,7.99,2025-01-02,Standard,2025-02-01,churned,False,payment,30,False,1
+T84491161805,16252,7.99,2025-01-02,Standard,2025-02-01,churned,False,payment,30,False,1
+T59104634487,15469,7.99,2025-01-01,Standard,2025-01-31,churned,False,payment,30,False,2
+T75983081956,16247,4.99,2025-01-01,Student Plan,2025-01-31,churned,False,payment,30,False,1
+T94156365003,15563,7.99,2025-01-01,Standard,2025-01-31,churned,False,payment,30,False,2
+T98606179749,16228,12.99,2025-01-01,Premium,2025-03-02,churned,False,payment,60,False,1
+T76975753358,15555,4.99,2025-01-01,Student Plan,2025-01-31,churned,False,payment,30,False,2
+T83545663545,16229,4.99,2025-01-01,Student Plan,2025-01-31,churned,False,payment,30,False,1
+T65774518881,16231,4.99,2025-01-01,Student Plan,2025-01-31,churned,False,payment,30,False,1
+T59554176553,16213,4.99,2024-12-31,Student Plan,2025-01-30,churned,False,payment,30,False,1
+T73849955648,16208,7.99,2024-12-31,Standard,2025-01-30,churned,False,payment,30,False,1
+T87070597287,15532,7.99,2024-12-31,Standard,2025-01-30,churned,False,payment,30,False,2
+T83755599874,16219,4.99,2024-12-31,Student Plan,2025-01-30,churned,False,payment,30,False,1
+T97714476566,16221,2.8998217,2024-12-31,Standard,2025-01-30,churned,False,payment,30,False,1
+T75305041656,16222,12.99,2024-12-31,Premium,2025-03-01,churned,False,payment,60,False,1
+T53089216277,15465,4.99,2024-12-30,Student Plan,2025-01-29,churned,False,payment,30,False,2
+T72318064121,16189,4.99,2024-12-30,Student Plan,2025-01-29,churned,False,payment,30,False,1
+T89593218095,16182,4.99,2024-12-30,Student Plan,2025-01-29,churned,False,payment,30,False,1
+T79465226895,16196,7.99,2024-12-30,Standard,2025-01-29,churned,False,payment,30,False,1
+T84730183350,15524,7.99,2024-12-30,Standard,2025-01-29,churned,False,payment,30,False,2
+T94667840366,15448,7.99,2024-12-30,Standard,2025-01-29,churned,False,payment,30,False,2
+T85196678758,16198,12.99,2024-12-30,Premium,2025-02-28,churned,False,payment,60,False,1
+T76108604306,15447,4.99,2024-12-30,Student Plan,2025-01-29,churned,False,payment,30,False,2
+T98344032318,16194,4.99,2024-12-30,Student Plan,2025-01-29,churned,False,payment,30,False,1
+T92062716098,16193,4.99,2024-12-30,Student Plan,2025-01-29,churned,False,payment,30,False,1
+T53773089808,15401,4.99,2024-12-29,Student Plan,2025-01-28,churned,False,payment,30,False,2
+T95864951649,15484,7.99,2024-12-29,Standard,2025-01-28,churned,False,payment,30,False,2
+T83802961484,16165,12.99,2024-12-29,Premium,2025-02-27,churned,False,payment,60,False,1
+T78898119585,16159,12.99,2024-12-29,Premium,2025-02-27,churned,False,payment,60,False,1
+T66554741613,16169,7.99,2024-12-29,Standard,2025-01-28,churned,False,payment,30,False,1
+T81306981501,16151,4.99,2024-12-29,Student Plan,2025-01-28,churned,False,payment,30,False,1
+T95124952459,16124,4.99,2024-12-28,Student Plan,2025-01-27,churned,False,payment,30,False,1
+T87387508212,16141,4.99,2024-12-28,Student Plan,2025-01-27,churned,False,payment,30,False,1
+T90755173596,16134,12.99,2024-12-28,Premium,2025-02-26,churned,False,payment,60,False,1
+T86988432056,15443,4.99,2024-12-28,Student Plan,2025-01-27,churned,False,payment,30,False,2
+T96069618721,15365,12.99,2024-12-27,Premium,2025-02-25,churned,False,payment,60,False,2
+T59829496613,16123,7.99,2024-12-27,Standard,2025-01-26,churned,False,payment,30,False,1
+T67391046155,16112,7.99,2024-12-27,Standard,2025-01-26,churned,False,payment,30,False,1
+T73657298949,16114,12.99,2024-12-27,Premium,2025-02-25,churned,False,payment,60,False,1
+T83848067188,15381,4.99,2024-12-27,Student Plan,2025-01-26,churned,False,payment,30,False,2
+T95159610859,15390,7.99,2024-12-27,Standard,2025-01-26,churned,False,payment,30,False,2
+T94732129904,16094,7.99,2024-12-26,Standard,2025-01-25,churned,False,payment,30,False,1
+T90244265428,16085,7.99,2024-12-26,Standard,2025-01-25,churned,False,payment,30,False,1
+T89272402721,16097,4.99,2024-12-26,Student Plan,2025-01-25,churned,False,payment,30,False,1
+T74154345145,16104,4.99,2024-12-26,Student Plan,2025-01-25,churned,False,payment,30,False,1
+T70268216136,16067,-5.99,2024-12-25,Student Plan,2025-01-24,churned,False,refund/credit,30,False,1
+T60985512007,16082,7.99,2024-12-25,Standard,2025-01-24,churned,False,payment,30,False,1
+T96273000547,16051,7.99,2024-12-24,Standard,2025-01-23,churned,False,payment,30,False,1
+T52890282033,16047,4.99,2024-12-24,Student Plan,2025-01-23,churned,False,payment,30,False,1
+T77102954393,16040,4.99,2024-12-24,Student Plan,2025-01-23,churned,False,payment,30,False,1
+T52150507863,16050,12.99,2024-12-24,Premium,2025-02-22,churned,False,payment,60,False,1
+T69162733709,16059,4.99,2024-12-24,Student Plan,2025-01-23,churned,False,payment,30,False,1
+T82752217988,15337,4.99,2024-12-23,Student Plan,2025-01-22,churned,False,payment,30,False,2
+T62855233121,15309,4.99,2024-12-23,Student Plan,2025-01-22,churned,False,payment,30,False,2
+T53143873916,16032,4.99,2024-12-23,Student Plan,2025-01-22,churned,False,payment,30,False,1
+T98018528109,16023,12.99,2024-12-23,Premium,2025-02-21,churned,False,payment,60,False,1
+T62154704058,16020,12.99,2024-12-23,Premium,2025-02-21,churned,False,payment,60,False,1
+T51569339118,16011,7.99,2024-12-22,Standard,2025-01-21,churned,False,payment,30,False,1
+T71402554767,16016,4.99,2024-12-22,Student Plan,2025-01-21,churned,False,payment,30,False,1
+T53982608949,16006,4.99,2024-12-22,Student Plan,2025-01-21,churned,False,payment,30,False,1
+T82859964186,16000,7.99,2024-12-22,Standard,2025-01-21,churned,False,payment,30,False,1
+T92074807946,16013,12.99,2024-12-22,Premium,2025-02-20,churned,False,payment,60,False,1
+T72636227699,15297,7.99,2024-12-22,Standard,2025-01-21,churned,False,payment,30,False,2
+T67545927711,15995,7.99,2024-12-21,Standard,2025-01-20,churned,False,payment,30,False,1
+T92628491687,15977,3.141689,2024-12-21,Student Plan,2025-01-20,churned,False,payment,30,False,1
+T82805567116,15318,7.99,2024-12-21,Standard,2025-01-20,churned,False,payment,30,False,2
+T90558315643,15983,4.99,2024-12-21,Student Plan,2025-01-20,churned,False,payment,30,False,1
+T56712659720,15987,7.99,2024-12-21,Standard,2025-01-20,churned,False,payment,30,False,1
+T91268261648,15990,7.99,2024-12-21,Standard,2025-01-20,churned,False,payment,30,False,1
+T82240485698,15296,7.99,2024-12-21,Standard,2025-01-20,churned,False,payment,30,False,2
+T85531623064,15287,7.99,2024-12-21,Standard,2025-01-20,churned,False,payment,30,False,2
+T99227504400,15315,-5.99,2024-12-20,Standard,2025-01-19,churned,False,refund/credit,30,False,2
+T70576176751,15281,4.99,2024-12-20,Student Plan,2025-01-19,churned,False,payment,30,False,2
+T67001775257,15958,7.99,2024-12-20,Standard,2025-01-19,churned,False,payment,30,False,1
+T83811122591,15962,12.99,2024-12-20,Premium,2025-02-18,churned,False,payment,60,False,1
+T94854461842,15939,7.99,2024-12-19,Standard,2025-01-18,churned,False,payment,30,False,1
+T79432861769,15276,4.99,2024-12-19,Student Plan,2025-01-18,churned,False,payment,30,False,2
+T72700846795,15255,7.99,2024-12-19,Standard,2025-01-18,churned,False,payment,30,False,2
+T81004299504,15245,7.99,2024-12-19,Standard,2025-01-18,churned,False,payment,30,False,2
+T50008157951,15950,12.99,2024-12-19,Premium,2025-02-17,churned,False,payment,60,False,1
+T66897173124,15234,4.99,2024-12-18,Student Plan,2025-01-17,churned,False,payment,30,False,2
+T50869533358,15221,7.99,2024-12-18,Standard,2025-01-17,churned,False,payment,30,False,2
+T86934417528,15926,7.99,2024-12-18,Standard,2025-01-17,churned,False,payment,30,False,1
+T71001701264,15933,7.99,2024-12-18,Standard,2025-01-17,churned,False,payment,30,False,1
+T77705576642,15298,-5.99,2024-12-18,Standard,2025-01-17,churned,False,refund/credit,30,False,2
+T85225927282,15226,4.99,2024-12-17,Student Plan,2025-01-16,churned,False,payment,30,False,2
+T56078028080,15214,7.99,2024-12-17,Standard,2025-01-16,churned,False,payment,30,False,2
+T51714339405,15212,4.99,2024-12-17,Student Plan,2025-01-16,churned,False,payment,30,False,2
+T89386182838,15897,4.99,2024-12-17,Student Plan,2025-01-16,churned,False,payment,30,False,1
+T86131843154,15912,4.99,2024-12-17,Student Plan,2025-01-16,churned,False,payment,30,False,1
+T79995930069,15909,4.99,2024-12-17,Student Plan,2025-01-16,churned,False,payment,30,False,1
+T91815908068,15201,4.99,2024-12-16,Student Plan,2025-01-15,churned,False,payment,30,False,2
+T90115312458,15873,7.99,2024-12-16,Standard,2025-01-15,churned,False,payment,30,False,1
+T91404930987,15254,7.99,2024-12-16,Standard,2025-01-15,churned,False,payment,30,False,2
+T54684921425,15264,7.99,2024-12-16,Standard,2025-01-15,churned,False,payment,30,False,2
+T64676372145,15875,7.99,2024-12-16,Standard,2025-01-15,churned,False,payment,30,False,1
+T81542308962,15876,7.99,2024-12-16,Standard,2025-01-15,churned,False,payment,30,False,1
+T81472496309,15894,4.99,2024-12-16,Student Plan,2025-01-15,churned,False,payment,30,False,1
+T76369568763,15852,12.99,2024-12-15,Premium,2025-02-13,churned,False,payment,60,False,1
+T79656052257,15180,4.99,2024-12-15,Student Plan,2025-01-14,churned,False,payment,30,False,2
+T62738334823,15185,4.99,2024-12-15,Student Plan,2025-01-14,churned,False,payment,30,False,2
+T58550829199,15854,7.99,2024-12-15,Standard,2025-01-14,churned,False,payment,30,False,1
+T62866280096,15860,4.99,2024-12-15,Student Plan,2025-01-14,churned,False,payment,30,False,1
+T57939984613,15866,12.99,2024-12-15,Premium,2025-02-13,churned,False,payment,60,False,1
+T99395650413,15865,12.99,2024-12-15,Premium,2025-02-13,churned,False,payment,60,False,1
+T73437795478,15869,12.99,2024-12-15,Premium,2025-02-13,churned,False,payment,60,False,1
+T93210199267,15149,4.99,2024-12-14,Student Plan,2025-01-13,churned,False,payment,30,False,2
+T79927863114,15843,4.99,2024-12-14,Student Plan,2025-01-13,churned,False,payment,30,False,1
+T97736895477,15835,4.99,2024-12-14,Student Plan,2025-01-13,churned,False,payment,30,False,1
+T85785370548,15831,4.99,2024-12-14,Student Plan,2025-01-13,churned,False,payment,30,False,1
+T95415598113,15159,7.99,2024-12-13,Standard,2025-01-12,churned,False,payment,30,False,2
+T52118318023,15818,4.99,2024-12-13,Student Plan,2025-01-12,churned,False,payment,30,False,1
+T89734244655,15816,7.99,2024-12-13,Standard,2025-01-12,churned,False,payment,30,False,1
+T82208987197,15813,4.99,2024-12-13,Student Plan,2025-01-12,churned,False,payment,30,False,1
+T54161864512,15211,7.99,2024-12-13,Standard,2025-01-12,churned,False,payment,30,False,2
+T67150187522,15804,4.99,2024-12-13,Student Plan,2025-01-12,churned,False,payment,30,False,1
+T50226624143,15801,7.99,2024-12-13,Standard,2025-01-12,churned,False,payment,30,False,1
+T92589299907,15172,4.99,2024-12-12,Student Plan,2025-01-11,churned,False,payment,30,False,2
+T80446278400,15786,4.99,2024-12-12,Student Plan,2025-01-11,churned,False,payment,30,False,1
+T74007072783,15145,4.99,2024-12-12,Student Plan,2025-01-11,churned,False,payment,30,False,2
+T75681330953,15784,7.99,2024-12-12,Standard,2025-01-11,churned,False,payment,30,False,1
+T68163699169,15798,4.99,2024-12-12,Student Plan,2025-01-11,churned,False,payment,30,False,1
+T88002986885,15790,4.99,2024-12-12,Student Plan,2025-01-11,churned,False,payment,30,False,1
+T66613778493,15137,4.99,2024-12-12,Student Plan,2025-01-11,churned,False,payment,30,False,2
+T70743148172,15140,7.99,2024-12-12,Standard,2025-01-11,churned,False,payment,30,False,2
+T50641517931,15141,7.99,2024-12-11,Standard,2025-01-10,churned,False,payment,30,False,2
+T80028999377,15165,7.99,2024-12-11,Standard,2025-01-10,churned,False,payment,30,False,2
+T95344340428,15758,4.99,2024-12-11,Student Plan,2025-01-10,churned,False,payment,30,False,1
+T53307637776,15757,12.99,2024-12-11,Premium,2025-02-09,churned,False,payment,60,False,1
+T68720927490,15781,12.99,2024-12-11,Premium,2025-02-09,churned,False,payment,60,False,1
+T79459164923,15774,7.99,2024-12-11,Standard,2025-01-10,churned,False,payment,30,False,1
+T81298062592,15765,4.99,2024-12-11,Student Plan,2025-01-10,churned,False,payment,30,False,1
+T87452172923,15150,7.99,2024-12-10,Standard,2025-01-09,churned,False,payment,30,False,2
+T77950015719,15738,7.99,2024-12-10,Standard,2025-01-09,churned,False,payment,30,False,1
+T98864808134,15742,7.99,2024-12-10,Standard,2025-01-09,churned,False,payment,30,False,1
+T80434759104,15744,4.99,2024-12-10,Student Plan,2025-01-09,churned,False,payment,30,False,1
+T87808970424,15124,3.141689,2024-12-09,Student Plan,2025-01-08,churned,False,payment,30,False,2
+T61085319192,15142,7.99,2024-12-09,Standard,2025-01-08,churned,False,payment,30,False,2
+T67927225850,15105,7.99,2024-12-09,Standard,2025-01-08,churned,False,payment,30,False,2
+T66439534820,15716,7.99,2024-12-09,Standard,2025-01-08,churned,False,payment,30,False,1
+T63087598766,15718,7.99,2024-12-09,Standard,2025-01-08,churned,False,payment,30,False,1
+T53810461937,15723,4.99,2024-12-09,Student Plan,2025-01-08,churned,False,payment,30,False,1
+T89779000107,15729,4.99,2024-12-09,Student Plan,2025-01-08,churned,False,payment,30,False,1
+T76364222606,15730,7.99,2024-12-09,Standard,2025-01-08,churned,False,payment,30,False,1
+T94767044189,15713,4.99,2024-12-09,Student Plan,2025-01-08,churned,False,payment,30,False,1
+T96200642612,15070,4.99,2024-12-09,Student Plan,2025-01-08,churned,False,payment,30,False,2
+T95665797407,15086,4.99,2024-12-08,Student Plan,2025-01-07,churned,False,payment,30,False,2
+T88295308049,15694,4.99,2024-12-08,Student Plan,2025-01-07,churned,False,payment,30,False,1
+T76842158813,15711,7.99,2024-12-08,Standard,2025-01-07,churned,False,payment,30,False,1
+T90013702399,15067,7.99,2024-12-07,Standard,2025-01-06,churned,False,payment,30,False,2
+T91317871234,15678,7.99,2024-12-07,Standard,2025-01-06,churned,False,payment,30,False,1
+T82239995027,15679,4.99,2024-12-07,Student Plan,2025-01-06,churned,False,payment,30,False,1
+T55345333254,15689,4.99,2024-12-07,Student Plan,2025-01-06,churned,False,payment,30,False,1
+T93871027564,15660,12.99,2024-12-06,Premium,2025-02-04,churned,False,payment,60,False,1
+T88863568361,15655,7.99,2024-12-06,Standard,2025-01-05,churned,False,payment,30,False,1
+T59770872292,15661,7.99,2024-12-06,Standard,2025-01-05,churned,False,payment,30,False,1
+T54272870729,15648,7.99,2024-12-06,Standard,2025-01-05,churned,False,payment,30,False,1
+T88618340917,15013,4.99,2024-12-06,Student Plan,2025-01-05,churned,False,payment,30,False,2
+T89981661830,15057,7.99,2024-12-05,Standard,2025-01-04,churned,False,payment,30,False,2
+T50505401067,15636,12.99,2024-12-05,Premium,2025-02-03,churned,False,payment,60,False,1
+T59914934004,15626,4.99,2024-12-05,Student Plan,2025-01-04,churned,False,payment,30,False,1
+T99996800761,15628,7.99,2024-12-05,Standard,2025-01-04,churned,False,payment,30,False,1
+T91354863164,15629,4.99,2024-12-05,Student Plan,2025-01-04,churned,False,payment,30,False,1
+T72468090043,15633,12.99,2024-12-05,Premium,2025-02-03,churned,False,payment,60,False,1
+T73622340137,15607,7.99,2024-12-04,Standard,2025-01-03,churned,False,payment,30,False,1
+T52471828758,15033,4.99,2024-12-04,Student Plan,2025-01-03,churned,False,payment,30,False,2
+T84673750296,15614,4.99,2024-12-04,Student Plan,2025-01-03,churned,False,payment,30,False,1
+T50828196410,15616,7.99,2024-12-04,Standard,2025-01-03,churned,False,payment,30,False,1
+T79481406204,15611,4.99,2024-12-04,Student Plan,2025-01-03,churned,False,payment,30,False,1
+T73938493845,15001,7.99,2024-12-04,Standard,2025-01-03,churned,False,payment,30,False,2
+T53883788536,15617,7.99,2024-12-04,Standard,2025-01-03,churned,False,payment,30,False,1
+T91322618258,15621,3.141689,2024-12-04,Standard,2025-01-03,churned,False,payment,30,False,1
+T92748283006,15590,7.99,2024-12-03,Standard,2025-01-02,churned,False,payment,30,False,1
+T74869545460,15604,4.99,2024-12-03,Student Plan,2025-01-02,churned,False,payment,30,False,1
+T87935144755,15573,12.99,2024-12-02,Premium,2025-01-31,churned,False,payment,60,False,1
+T52698559396,15580,7.99,2024-12-02,Standard,2025-01-01,churned,False,payment,30,False,1
+T97270805882,15585,12.99,2024-12-02,Premium,2025-01-31,churned,False,payment,60,False,1
+T66953691107,15583,4.99,2024-12-02,Student Plan,2025-01-01,churned,False,payment,30,False,1
+T99026667458,15557,12.99,2024-12-01,Premium,2025-01-30,churned,False,payment,60,False,1
+T61756116323,15564,7.99,2024-12-01,Standard,2024-12-31,churned,False,payment,30,False,1
+T95845906537,15569,12.99,2024-12-01,Premium,2025-01-30,churned,False,payment,60,False,1
+T87351766056,15525,7.99,2024-11-30,Standard,2024-12-30,churned,False,payment,30,False,1
+T98284434272,15529,7.99,2024-11-30,Standard,2024-12-30,churned,False,payment,30,False,1
+T78856043337,15528,4.99,2024-11-30,Student Plan,2024-12-30,churned,False,payment,30,False,1
+T94429435595,15547,7.99,2024-11-30,Standard,2024-12-30,churned,False,payment,30,False,1
+T95555781164,15541,4.99,2024-11-30,Student Plan,2024-12-30,churned,False,payment,30,False,1
+T73031580411,15539,4.99,2024-11-30,Student Plan,2024-12-30,churned,False,payment,30,False,1
+T51619171851,15507,7.99,2024-11-29,Standard,2024-12-29,churned,False,payment,30,False,1
+T75794958234,15515,4.99,2024-11-29,Student Plan,2024-12-29,churned,False,payment,30,False,1
+T69752630619,15496,4.99,2024-11-28,Student Plan,2024-12-28,churned,False,payment,30,False,1
+T65326009188,15499,7.99,2024-11-28,Standard,2024-12-28,churned,False,payment,30,False,1
+T67090405025,15502,12.99,2024-11-28,Premium,2025-01-27,churned,False,payment,60,False,1
+T53565147745,15482,7.99,2024-11-28,Standard,2024-12-28,churned,False,payment,30,False,1
+T93792753313,15493,12.99,2024-11-28,Premium,2025-01-27,churned,False,payment,60,False,1
+T54056267699,15485,7.99,2024-11-28,Standard,2024-12-28,churned,False,payment,30,False,1
+T78742704785,15480,7.99,2024-11-28,Standard,2024-12-28,churned,False,payment,30,False,1
+T80417966240,15487,4.99,2024-11-28,Student Plan,2024-12-28,churned,False,payment,30,False,1
+T80887229687,15490,4.99,2024-11-28,Student Plan,2024-12-28,churned,False,payment,30,False,1
+T85441362078,15471,4.99,2024-11-27,Student Plan,2024-12-27,churned,False,payment,30,False,1
+T89687257739,15476,4.99,2024-11-27,Student Plan,2024-12-27,churned,False,payment,30,False,1
+T72739878607,15442,4.99,2024-11-25,Student Plan,2024-12-25,churned,False,payment,30,False,1
+T68465917441,15428,4.99,2024-11-25,Student Plan,2024-12-25,churned,False,payment,30,False,1
+T98136802696,15422,4.99,2024-11-25,Student Plan,2024-12-25,churned,False,payment,30,False,1
+T53523776699,15424,7.99,2024-11-25,Standard,2024-12-25,churned,False,payment,30,False,1
+T92099588908,15436,7.99,2024-11-25,Standard,2024-12-25,churned,False,payment,30,False,1
+T98449995966,15434,4.99,2024-11-25,Student Plan,2024-12-25,churned,False,payment,30,False,1
+T73494605001,15435,7.99,2024-11-25,Standard,2024-12-25,churned,False,payment,30,False,1
+T58378118868,15402,7.99,2024-11-24,Standard,2024-12-24,churned,False,payment,30,False,1
+T69401049260,15400,4.99,2024-11-24,Student Plan,2024-12-24,churned,False,payment,30,False,1
+T93869430977,15399,12.99,2024-11-24,Premium,2025-01-23,churned,False,payment,60,False,1
+T60105958063,15410,7.99,2024-11-24,Standard,2024-12-24,churned,False,payment,30,False,1
+T94208183942,15415,4.99,2024-11-24,Student Plan,2024-12-24,churned,False,payment,30,False,1
+T55198831856,15419,4.99,2024-11-24,Student Plan,2024-12-24,churned,False,payment,30,False,1
+T58977964742,15420,12.99,2024-11-24,Premium,2025-01-23,churned,False,payment,60,False,1
+T65162567122,15386,7.99,2024-11-23,Standard,2024-12-23,churned,False,payment,30,False,1
+T63288416668,15385,4.99,2024-11-23,Student Plan,2024-12-23,churned,False,payment,30,False,1
+T69043717610,15388,12.99,2024-11-23,Premium,2025-01-22,churned,False,payment,60,False,1
+T78594488716,15392,7.99,2024-11-23,Standard,2024-12-23,churned,False,payment,30,False,1
+T95960723930,15377,12.99,2024-11-22,Premium,2025-01-21,churned,False,payment,60,False,1
+T93389163137,15374,4.99,2024-11-22,Student Plan,2024-12-22,churned,False,payment,30,False,1
+T69503889493,15371,12.99,2024-11-22,Premium,2025-01-21,churned,False,payment,60,False,1
+T91850495773,15367,4.99,2024-11-22,Student Plan,2024-12-22,churned,False,payment,30,False,1
+T74089398345,15366,7.99,2024-11-22,Standard,2024-12-22,churned,False,payment,30,False,1
+T99634471308,15359,12.99,2024-11-21,Premium,2025-01-20,churned,False,payment,60,False,1
+T80252813806,15357,4.99,2024-11-21,Student Plan,2024-12-21,churned,False,payment,30,False,1
+T51246105065,15350,7.99,2024-11-21,Standard,2024-12-21,churned,False,payment,30,False,1
+T83543830513,15364,4.99,2024-11-21,Student Plan,2024-12-21,churned,False,payment,30,False,1
+T75138141814,15329,12.99,2024-11-20,Premium,2025-01-19,churned,False,payment,60,False,1
+T96121126002,15333,2.8998217,2024-11-20,Premium,2025-01-19,churned,False,payment,60,False,1
+T68827492653,15343,12.99,2024-11-20,Premium,2025-01-19,churned,False,payment,60,False,1
+T68537739457,15313,7.99,2024-11-19,Standard,2024-12-19,churned,False,payment,30,False,1
+T85488766163,15317,4.99,2024-11-19,Student Plan,2024-12-19,churned,False,payment,30,False,1
+T93015960056,15324,4.99,2024-11-19,Student Plan,2024-12-19,churned,False,payment,30,False,1
+T58556814454,15289,3.141689,2024-11-17,Premium,2025-01-16,churned,False,payment,60,False,1
+T68539153064,15265,7.99,2024-11-16,Standard,2024-12-16,churned,False,payment,30,False,1
+T99709409654,15267,7.99,2024-11-16,Standard,2024-12-16,churned,False,payment,30,False,1
+T72961843328,15273,12.99,2024-11-16,Premium,2025-01-15,churned,False,payment,60,False,1
+T87750021443,15247,4.99,2024-11-15,Student Plan,2024-12-15,churned,False,payment,30,False,1
+T93737093132,15248,12.99,2024-11-15,Premium,2025-01-14,churned,False,payment,60,False,1
+T54741716641,15259,2.8998217,2024-11-15,Premium,2025-01-14,churned,False,payment,60,False,1
+T78908733438,15262,7.99,2024-11-15,Standard,2024-12-15,churned,False,payment,30,False,1
+T87147993759,15236,12.99,2024-11-14,Premium,2025-01-13,churned,False,payment,60,False,1
+T50701129983,15238,4.99,2024-11-14,Student Plan,2024-12-14,churned,False,payment,30,False,1
+T61538392069,15222,4.99,2024-11-13,Student Plan,2024-12-13,churned,False,payment,30,False,1
+T64484057913,15225,12.99,2024-11-13,Premium,2025-01-12,churned,False,payment,60,False,1
+T52373362485,15220,7.99,2024-11-13,Standard,2024-12-13,churned,False,payment,30,False,1
+T80712943054,15230,7.99,2024-11-13,Standard,2024-12-13,churned,False,payment,30,False,1
+T74828199326,15215,4.99,2024-11-12,Student Plan,2024-12-12,churned,False,payment,30,False,1
+T64592025973,15213,12.99,2024-11-12,Premium,2025-01-11,churned,False,payment,60,False,1
+T62736237924,15219,7.99,2024-11-12,Standard,2024-12-12,churned,False,payment,30,False,1
+T61424012418,15196,4.99,2024-11-11,Student Plan,2024-12-11,churned,False,payment,30,False,1
+T60792748916,15183,4.99,2024-11-10,Student Plan,2024-12-10,churned,False,payment,30,False,1
+T60514584160,15186,4.99,2024-11-10,Student Plan,2024-12-10,churned,False,payment,30,False,1
+T86233939314,15189,12.99,2024-11-10,Premium,2025-01-09,churned,False,payment,60,False,1
+T76962924347,15148,4.99,2024-11-09,Student Plan,2024-12-09,churned,False,payment,30,False,1
+T89908922198,15161,4.99,2024-11-09,Student Plan,2024-12-09,churned,False,payment,30,False,1
+T63383212373,15164,7.99,2024-11-09,Standard,2024-12-09,churned,False,payment,30,False,1
+T57363634041,15167,12.99,2024-11-09,Premium,2025-01-08,churned,False,payment,60,False,1
+T55044222600,15168,12.99,2024-11-09,Premium,2025-01-08,churned,False,payment,60,False,1
+T96865363031,15173,4.99,2024-11-09,Student Plan,2024-12-09,churned,False,payment,30,False,1
+T64600863421,15138,4.99,2024-11-08,Student Plan,2024-12-08,churned,False,payment,30,False,1
+T78633706805,15135,4.99,2024-11-08,Student Plan,2024-12-08,churned,False,payment,30,False,1
+T80099640804,15146,7.99,2024-11-08,Standard,2024-12-08,churned,False,payment,30,False,1
+T52304584743,15118,7.99,2024-11-07,Standard,2024-12-07,churned,False,payment,30,False,1
+T53303036903,15121,4.99,2024-11-07,Student Plan,2024-12-07,churned,False,payment,30,False,1
+T92832151170,15128,7.99,2024-11-07,Standard,2024-12-07,churned,False,payment,30,False,1
+T72028034723,15091,4.99,2024-11-05,Student Plan,2024-12-05,churned,False,payment,30,False,1
+T97911219538,15084,7.99,2024-11-05,Standard,2024-12-05,churned,False,payment,30,False,1
+T96893817426,15079,7.99,2024-11-04,Standard,2024-12-04,churned,False,payment,30,False,1
+T82006286858,15076,4.99,2024-11-04,Student Plan,2024-12-04,churned,False,payment,30,False,1
+T69571925002,15071,4.99,2024-11-04,Student Plan,2024-12-04,churned,False,payment,30,False,1
+T94255422726,15068,7.99,2024-11-04,Standard,2024-12-04,churned,False,payment,30,False,1
+T64055278498,15066,4.99,2024-11-04,Student Plan,2024-12-04,churned,False,payment,30,False,1
+T93652832065,15073,4.99,2024-11-04,Student Plan,2024-12-04,churned,False,payment,30,False,1
+T61837910430,15052,12.99,2024-11-03,Premium,2025-01-02,churned,False,payment,60,False,1
+T50405099742,15059,4.99,2024-11-03,Student Plan,2024-12-03,churned,False,payment,30,False,1
+T78273475530,15061,7.99,2024-11-03,Standard,2024-12-03,churned,False,payment,30,False,1
+T91913761575,15049,4.99,2024-11-03,Student Plan,2024-12-03,churned,False,payment,30,False,1
+T97528294770,15042,7.99,2024-11-02,Standard,2024-12-02,churned,False,payment,30,False,1
+T63497963038,15041,4.99,2024-11-02,Student Plan,2024-12-02,churned,False,payment,30,False,1
+T55487840278,15029,12.99,2024-11-02,Premium,2025-01-01,churned,False,payment,60,False,1
+T66496595611,15038,12.99,2024-11-02,Premium,2025-01-01,churned,False,payment,60,False,1
+T97014296147,15006,7.99,2024-11-01,Standard,2024-12-01,churned,False,payment,30,False,1
+T67295538033,15010,7.99,2024-11-01,Standard,2024-12-01,churned,False,payment,30,False,1
+T56541822237,15009,4.99,2024-11-01,Student Plan,2024-12-01,churned,False,payment,30,False,1
+T97605411177,15014,12.99,2024-11-01,Premium,2024-12-31,churned,False,payment,60,False,1
+T57975160415,15017,7.99,2024-11-01,Standard,2024-12-01,churned,False,payment,30,False,1
+T51016615944,15019,7.99,2024-11-01,Standard,2024-12-01,churned,False,payment,30,False,1
