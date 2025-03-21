@@ -11,24 +11,20 @@ users_df = pd.read_csv('users.csv')
 
 st.title("Movie Dashboard")
 
-# Add movie search feature after the title
 st.subheader("Search a Movie")
 movie_search = st.text_input("Type a movie name")
 
 if movie_search:
-    # Find movies that match the search
     found_movies = movies_df[movies_df['title'].str.contains(movie_search, case=False)]
     
     if len(found_movies) > 0:
         st.write(f"Found {len(found_movies)} movies!")
         
         for _, movie in found_movies.iterrows():
-            # Get ratings for this movie
             movie_ratings = ratings_df[ratings_df['movie_id'] == movie['movie_id']]
             avg_rating = movie_ratings['rating'].mean()
             num_ratings = len(movie_ratings)
             
-            # Show movie info in an expander
             with st.expander(f"🎬 {movie['title']}"):
                 col1, col2, col3 = st.columns(3)
                 
@@ -43,7 +39,6 @@ if movie_search:
                 with col3:
                     if num_ratings > 0:
                         st.write("Average Rating:", round(avg_rating, 2))
-                        # Make a simple rating chart
                         rating_dist = px.histogram(movie_ratings, x='rating', 
                                                  title='Rating Distribution',
                                                  nbins=10)
