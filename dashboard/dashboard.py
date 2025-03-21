@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from datetime import datetime
 
 st.set_page_config(page_title="Movie Dashboard", layout="wide")
 
@@ -9,6 +10,48 @@ ratings_df = pd.read_csv('ratings.csv')
 users_df = pd.read_csv('users.csv')
 
 st.title("Movie Dashboard")
+
+# Add movie search feature after the title
+st.subheader("Search a Movie")
+movie_search = st.text_input("Type a movie name")
+
+if movie_search:
+    # Find movies that match the search
+    found_movies = movies_df[movies_df['title'].str.contains(movie_search, case=False)]
+    
+    if len(found_movies) > 0:
+        st.write(f"Found {len(found_movies)} movies!")
+        
+        for _, movie in found_movies.iterrows():
+            # Get ratings for this movie
+            movie_ratings = ratings_df[ratings_df['movie_id'] == movie['movie_id']]
+            avg_rating = movie_ratings['rating'].mean()
+            num_ratings = len(movie_ratings)
+            
+            # Show movie info in an expander
+            with st.expander(f"🎬 {movie['title']}"):
+                col1, col2, col3 = st.columns(3)
+                
+                with col1:
+                    st.write("Release Year:", movie['release_year'])
+                    st.write("Runtime:", movie['runtime'], "minutes")
+                
+                with col2:
+                    st.write("Genre:", movie['genre'])
+                    st.write("Number of Ratings:", num_ratings)
+                
+                with col3:
+                    if num_ratings > 0:
+                        st.write("Average Rating:", round(avg_rating, 2))
+                        # Make a simple rating chart
+                        rating_dist = px.histogram(movie_ratings, x='rating', 
+                                                 title='Rating Distribution',
+                                                 nbins=10)
+                        st.plotly_chart(rating_dist, use_container_width=True)
+                    else:
+                        st.write("No ratings yet!")
+    else:
+        st.write("No movies found! Try another name.")
 
 selected_genre = st.sidebar.multiselect(
     "Pick Genres",
@@ -66,14 +109,39 @@ with col6:
                       title='Movie Genres')
     st.plotly_chart(fig_genre, use_container_width=True)
 
-st.header("Numbers")
-col7, col8, col9, col10 = st.columns(4)
+# Churn Analysis
+st.header("User Activity Analysis")
+ratings_df['review_date'] = pd.to_datetime(ratings_df['review_date'])
+last_review = ratings_df.groupby('user_id')['review_date'].max().reset_index()
+last_review['days_since_last_review'] = (datetime.now() - last_review['review_date']).dt.days
+
+col7, col8 = st.columns(2)
 
 with col7:
-    st.metric("Movies", len(filtered_movies))
+    fig_churn = px.histogram(last_review, x='days_since_last_review',
+                           title='Days Since Last Review',
+                           nbins=30)
+    st.plotly_chart(fig_churn, use_container_width=True)
+
 with col8:
-    st.metric("Users", len(users_df))
+    churn_status = last_review['days_since_last_review'].apply(lambda x: 'Active' if x < 30 else 'At Risk' if x < 90 else 'Churned')
+    churn_counts = churn_status.value_counts()
+    fig_churn_status = px.pie(values=churn_counts.values,
+                            names=churn_counts.index,
+                            title='User Churn Status')
+    st.plotly_chart(fig_churn_status, use_container_width=True)
+
+st.header("Numbers")
+col9, col10, col11, col12 = st.columns(4)
+
 with col9:
-    st.metric("Avg Rating", round(filtered_ratings['rating'].mean(), 2))
+    st.metric("Movies", len(filtered_movies))
 with col10:
+    st.metric("Users", len(users_df))
+with col11:
+    st.metric("Avg Rating", round(filtered_ratings['rating'].mean(), 2))
+with col12:
     st.metric("Ratings", len(filtered_ratings))
+
+st.markdown("---")
+st.markdown("Made with Streamlit") 
